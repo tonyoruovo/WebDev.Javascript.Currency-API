@@ -1,0 +1,57 @@
+[
+    {
+        "common-name": "european union (the)",
+        "official-name": "european union (the)",
+        "sovereignty": null,
+        "iso-2": null,
+        "iso-3": null,
+        "iso-num": null,
+        "code-link": null,
+        "top-level-domain-name": null,
+        "flag": "./flags/eu.svg"
+    }, 
+    {
+        "common-name": "kosovo",
+        "official-name": "kosovo (the republic of)",
+        "sovereignty": "disputed",
+        "iso-2": "xk",
+        "iso-3": "unk",
+        "iso-num": null,
+        "code-link": null,
+        "top-level-domain-name": ".xk",
+        "flag": "./flags/xk.svg"
+    },
+    {
+        "common-name": "international monetary fund (the)",
+        "official-name": "international monetary fund (the)",
+        "sovereignty": null,
+        "iso-2": null,
+        "iso-3": null,
+        "iso-num": null,
+        "code-link": null,
+        "top-level-domain-name": null,
+        "flag": "./flags/imf.svg"
+    },
+    {
+        "common-name": "alba",
+        "official-name": "Bolivarian Alliance for the Peoples of Our America",
+        "sovereignty": null,
+        "iso-2": null,
+        "iso-3": null,
+        "iso-num": null,
+        "code-link": null,
+        "top-level-domain-name": null,
+        "flag": "./flags/alba.svg"
+    },
+    {
+        "common-name": "adb",
+        "official-name": "African Development Bank",
+        "sovereignty": null,
+        "iso-2": null,
+        "iso-3": null,
+        "iso-num": null,
+        "code-link": null,
+        "top-level-domain-name": null,
+        "flag": "./flags/adb.svg"
+    }
+]

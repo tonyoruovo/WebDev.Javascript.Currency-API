@@ -1,0 +1,2814 @@
+[
+  {
+    "info": {
+      "iso": "aed",
+      "iso-num": 784,
+      "symbol": "./symbol/aed-784.svg",
+      "unicode": "د.إ"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "are"
+    ],
+    "peg-info": [
+      {
+        "rate": 3.6725,
+        "iso": "usd"
+      }
+    ]
+  },
+  {
+    "info": {
+      "iso": "afn",
+      "iso-num": 971,
+      "symbol": "./symbol/afn-971.svg",
+      "unicode": "؋"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "afg"
+    ]
+  },
+  {
+    "info": {
+      "iso": "all",
+      "iso-num": 8,
+      "symbol": "./symbol/all-8.svg",
+      "unicode": "lek"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "alb"
+    ]
+  },
+  {
+    "info": {
+      "iso": "amd",
+      "iso-num": 51,
+      "symbol": "./symbol/amd-51.svg"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "arm"
+    ]
+  },
+  {
+    "info": {
+      "iso": "ang",
+      "iso-num": 532,
+      "symbol": "./symbol/ang-532.svg",
+      "unicode": "ƒ"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "cuw",
+      "sxm"
+    ],
+    "peg-info": [
+      {
+        "rate": 1.79,
+        "iso": "usd"
+      }
+    ]
+  },
+  {
+    "info": {
+      "iso": "aoa",
+      "iso-num": 973,
+      "symbol": "./symbol/aoa-973.svg"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "ago"
+    ]
+  },
+  {
+    "info": {
+      "iso": "ars",
+      "iso-num": 32,
+      "symbol": "./symbol/ars-32.svg",
+      "unicode": "$"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "arg"
+    ]
+  },
+  {
+    "info": {
+      "iso": "aud",
+      "iso-num": 36,
+      "symbol": "./symbol/aud-36.svg",
+      "unicode": "$"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "aus",
+      "cxr",
+      "cck",
+      "hmd",
+      "kir",
+      "nru",
+      "nfk",
+      "tuv"
+    ]
+  },
+  {
+    "info": {
+      "iso": "awg",
+      "iso-num": 533,
+      "symbol": "./symbol/awg-533.svg",
+      "unicode": "ƒ"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "abw"
+    ],
+    "peg-info": [
+      {
+        "rate": 1.79,
+        "iso": "usd"
+      }
+    ]
+  },
+  {
+    "info": {
+      "iso": "azn",
+      "iso-num": 944,
+      "symbol": "./symbol/azn-944.svg",
+      "unicode": "₼"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "aze"
+    ],
+    "peg-info": [
+      {
+        "rate": 1.7,
+        "iso": "usd"
+      }
+    ]
+  },
+  {
+    "info": {
+      "iso": "bam",
+      "iso-num": 977,
+      "symbol": "./symbol/bam-977.svg",
+      "unicode": "km"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "bih"
+    ],
+    "peg-info": [
+      {
+        "rate": 1.95583,
+        "iso": "che"
+      }
+    ]
+  },
+  {
+    "info": {
+      "iso": "bbd",
+      "iso-num": 52,
+      "symbol": "./symbol/bbd-52.svg",
+      "unicode": "$"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "brb"
+    ],
+    "peg-info": [
+      {
+        "rate": 2,
+        "iso": "usd"
+      }
+    ]
+  },
+  {
+    "info": {
+      "iso": "bdt",
+      "iso-num": 50,
+      "symbol": "./symbol/bdt-50.svg",
+      "unicode": "৳"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "bgd"
+    ]
+  },
+  {
+    "info": {
+      "iso": "bgn",
+      "iso-num": 975,
+      "symbol": "./symbol/bgn-975.svg",
+      "unicode": "лв"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "bgr"
+    ],
+    "peg-info": [
+      {
+        "rate": 1.95583,
+        "iso": "che"
+      }
+    ]
+  },
+  {
+    "info": {
+      "iso": "bhd",
+      "iso-num": 48,
+      "symbol": "./symbol/bhd-48.svg"
+    },
+    "secondary-unit-info": {
+      "rate": "1000"
+    },
+    "users": [
+      "bhr"
+    ],
+    "peg-info": [
+      {
+        "rate": 0.376,
+        "iso": "usd"
+      }
+    ]
+  },
+  {
+    "info": {
+      "iso": "bif",
+      "iso-num": 108,
+      "symbol": "./symbol/bif-108.svg"
+    },
+    "secondary-unit-info": {
+      "rate": null
+    },
+    "users": [
+      "bdi"
+    ]
+  },
+  {
+    "info": {
+      "iso": "bmd",
+      "iso-num": 60,
+      "symbol": "./symbol/bmd-60.svg",
+      "unicode": "$"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "bmu"
+    ],
+    "peg-info": [
+      {
+        "rate": 1,
+        "iso": "usd"
+      }
+    ]
+  },
+  {
+    "info": {
+      "iso": "bnd",
+      "iso-num": 96,
+      "symbol": "./symbol/bnd-96.svg",
+      "unicode": "$"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "brn"
+    ],
+    "peg-info": [
+      {
+        "rate": 1,
+        "iso": "sgd"
+      }
+    ]
+  },
+  {
+    "info": {
+      "iso": "bob",
+      "iso-num": 68,
+      "symbol": "./symbol/bob-68.svg",
+      "unicode": "$b"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "bol"
+    ]
+  },
+  {
+    "info": {
+      "iso": "bov",
+      "iso-num": 984,
+      "symbol": "./symbol/bov-984.svg"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "bol"
+    ]
+  },
+  {
+    "info": {
+      "iso": "brl",
+      "iso-num": 986,
+      "symbol": "./symbol/brl-986.svg",
+      "unicode": "r$"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "bra"
+    ]
+  },
+  {
+    "info": {
+      "iso": "bsd",
+      "iso-num": 44,
+      "symbol": "./symbol/bsd-44.svg",
+      "unicode": "$"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "bhs"
+    ],
+    "peg-info": [
+      {
+        "rate": 1,
+        "iso": "usd"
+      }
+    ]
+  },
+  {
+    "info": {
+      "iso": "btn",
+      "iso-num": 64,
+      "symbol": "./symbol/btn-64.svg"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "btn"
+    ],
+    "peg-info": [
+      {
+        "rate": 1,
+        "iso": "inr"
+      }
+    ]
+  },
+  {
+    "info": {
+      "iso": "bwp",
+      "iso-num": 72,
+      "symbol": "./symbol/bwp-72.svg",
+      "unicode": "p"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "bwa"
+    ]
+  },
+  {
+    "info": {
+      "iso": "byn",
+      "iso-num": 933,
+      "symbol": "./symbol/byn-933.svg",
+      "unicode": "br"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "blr"
+    ]
+  },
+  {
+    "info": {
+      "iso": "bzd",
+      "iso-num": 84,
+      "symbol": "./symbol/bzd-84.svg",
+      "unicode": "bz$"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "blz"
+    ],
+    "peg-info": [
+      {
+        "rate": 2,
+        "iso": "usd"
+      }
+    ]
+  },
+  {
+    "info": {
+      "iso": "cad",
+      "iso-num": 124,
+      "symbol": "./symbol/cad-124.svg",
+      "unicode": "$"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "can"
+    ]
+  },
+  {
+    "info": {
+      "iso": "cdf",
+      "iso-num": 976,
+      "symbol": "./symbol/cdf-976.svg"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "cod"
+    ]
+  },
+  {
+    "info": {
+      "iso": "che",
+      "iso-num": 947,
+      "symbol": "./symbol/che-947.svg"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "che"
+    ]
+  },
+  {
+    "info": {
+      "iso": "chf",
+      "iso-num": 756,
+      "symbol": "./symbol/chf-756.svg",
+      "unicode": "chf"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "che",
+      "lie"
+    ]
+  },
+  {
+    "info": {
+      "iso": "chw",
+      "iso-num": 948,
+      "symbol": "./symbol/chw-948.svg"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "che"
+    ]
+  },
+  {
+    "info": {
+      "iso": "clf",
+      "iso-num": 990,
+      "symbol": "./symbol/clf-990.svg",
+      "unicode": "UF"
+    },
+    "secondary-unit-info": {
+      "rate": "10000"
+    },
+    "users": [
+      "chl"
+    ]
+  },
+  {
+    "info": {
+      "iso": "clp",
+      "iso-num": 152,
+      "symbol": "./symbol/clp-152.svg",
+      "unicode": "$"
+    },
+    "secondary-unit-info": {
+      "rate": null
+    },
+    "users": [
+      "chl"
+    ]
+  },
+  {
+    "info": {
+      "iso": "cop",
+      "iso-num": 170,
+      "symbol": "./symbol/cop-170.svg",
+      "unicode": "$"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "col"
+    ]
+  },
+  {
+    "info": {
+      "iso": "cou",
+      "iso-num": 970,
+      "symbol": "./symbol/cou-970.svg"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "col"
+    ]
+  },
+  {
+    "info": {
+      "iso": "crc",
+      "iso-num": 188,
+      "symbol": "./symbol/crc-188.svg",
+      "unicode": "₡"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "cri"
+    ]
+  },
+  {
+    "info": {
+      "iso": "cuc",
+      "iso-num": 931,
+      "symbol": "./symbol/cuc-931.svg"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "cub"
+    ]
+  },
+  {
+    "info": {
+      "iso": "cup",
+      "iso-num": 192,
+      "symbol": "./symbol/cup-192.svg",
+      "unicode": "₱"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "cub"
+    ],
+    "peg-info": [
+      {
+        "rate": 24,
+        "iso": "usd"
+      }
+    ]
+  },
+  {
+    "info": {
+      "iso": "cve",
+      "iso-num": 132,
+      "symbol": "./symbol/cve-132.svg"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "cpv"
+    ],
+    "peg-info": [
+      {
+        "rate": 110.265,
+        "iso": "che"
+      }
+    ]
+  },
+  {
+    "info": {
+      "iso": "czk",
+      "iso-num": 203,
+      "symbol": "./symbol/czk-203.svg",
+      "unicode": "kč"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "cze"
+    ]
+  },
+  {
+    "info": {
+      "iso": "djf",
+      "iso-num": 262,
+      "symbol": "./symbol/djf-262.svg"
+    },
+    "secondary-unit-info": {
+      "rate": null
+    },
+    "users": [
+      "dji"
+    ],
+    "peg-info": [
+      {
+        "rate": 177.721,
+        "iso": "usd"
+      }
+    ]
+  },
+  {
+    "info": {
+      "iso": "dkk",
+      "iso-num": 208,
+      "symbol": "./symbol/dkk-208.svg",
+      "unicode": "kr"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "dnk",
+      "fro",
+      "grl"
+    ],
+    "peg-info": [
+      {
+        "rate": 7.46038,
+        "iso": "che"
+      }
+    ]
+  },
+  {
+    "info": {
+      "iso": "dop",
+      "iso-num": 214,
+      "symbol": "./symbol/dop-214.svg",
+      "unicode": "rd$"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "dma"
+    ]
+  },
+  {
+    "info": {
+      "iso": "dzd",
+      "iso-num": 12,
+      "symbol": "./symbol/dzd-12.svg"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "dza"
+    ]
+  },
+  {
+    "info": {
+      "iso": "egp",
+      "iso-num": 818,
+      "symbol": "./symbol/egp-818.svg",
+      "unicode": "£"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "egy"
+    ]
+  },
+  {
+    "info": {
+      "iso": "ern",
+      "iso-num": 232,
+      "symbol": "./symbol/ern-232.svg"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "eri"
+    ],
+    "peg-info": [
+      {
+        "rate": 15,
+        "iso": "usd"
+      }
+    ]
+  },
+  {
+    "info": {
+      "iso": "etb",
+      "iso-num": 230,
+      "symbol": "./symbol/etb-230.svg"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "eth"
+    ]
+  },
+  {
+    "info": {
+      "iso": "eur",
+      "iso-num": 978,
+      "symbol": "./symbol/eur-978.svg",
+      "unicode": "€"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "ala",
+      "European Union",
+      "and",
+      "aut",
+      "bel",
+      "hrv",
+      "cyp",
+      "est",
+      "fin",
+      "fra",
+      "atf",
+      "deu",
+      "grc",
+      "glp",
+      "irl",
+      "ita",
+      "unk",
+      "lva",
+      "ltu",
+      "lux",
+      "mlt",
+      "guf",
+      "mtq",
+      "myt",
+      "mco",
+      "mne",
+      "nld",
+      "prt",
+      "reu",
+      "blm",
+      "maf",
+      "spm",
+      "smr",
+      "svk",
+      "svn",
+      "esp",
+      "vat"
+    ]
+  },
+  {
+    "info": {
+      "iso": "fjd",
+      "iso-num": 242,
+      "symbol": "./symbol/fjd-242.svg",
+      "unicode": "$"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "fji"
+    ]
+  },
+  {
+    "info": {
+      "iso": "fkp",
+      "iso-num": 238,
+      "symbol": "./symbol/fkp-238.svg",
+      "unicode": "£"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "flk"
+    ],
+    "peg-info": [
+      {
+        "rate": 1,
+        "iso": "gbp"
+      }
+    ]
+  },
+  {
+    "info": {
+      "iso": "gbp",
+      "iso-num": 826,
+      "symbol": "./symbol/gbp-826.svg",
+      "unicode": "£"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "gbr",
+      "imn",
+      "jey",
+      "ggy",
+      "shn"
+    ]
+  },
+  {
+    "info": {
+      "iso": "gel",
+      "iso-num": 981,
+      "symbol": "./symbol/gel-981.svg"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "geo"
+    ]
+  },
+  {
+    "info": {
+      "iso": "ghs",
+      "iso-num": 936,
+      "symbol": "./symbol/ghs-936.svg",
+      "unicode": "¢"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "gha"
+    ]
+  },
+  {
+    "info": {
+      "iso": "gip",
+      "iso-num": 292,
+      "symbol": "./symbol/gip-292.svg",
+      "unicode": "£"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "gib"
+    ],
+    "peg-info": [
+      {
+        "rate": 1,
+        "iso": "gbp"
+      }
+    ]
+  },
+  {
+    "info": {
+      "iso": "gmd",
+      "iso-num": 270,
+      "symbol": "./symbol/gmd-270.svg"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "gmb"
+    ]
+  },
+  {
+    "info": {
+      "iso": "gnf",
+      "iso-num": 324,
+      "symbol": "./symbol/gnf-324.svg"
+    },
+    "secondary-unit-info": {
+      "rate": null
+    },
+    "users": [
+      "gnq"
+    ]
+  },
+  {
+    "info": {
+      "iso": "gtq",
+      "iso-num": 320,
+      "symbol": "./symbol/gtq-320.svg",
+      "unicode": "q"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "gtm"
+    ]
+  },
+  {
+    "info": {
+      "iso": "gyd",
+      "iso-num": 328,
+      "symbol": "./symbol/gyd-328.svg",
+      "unicode": "$"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "guy"
+    ]
+  },
+  {
+    "info": {
+      "iso": "hkd",
+      "iso-num": 344,
+      "symbol": "./symbol/hkd-344.svg",
+      "unicode": "$"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "hkg"
+    ],
+    "peg-info": [
+      {
+        "rate": 7.75,
+        "iso": "usd"
+      }
+    ]
+  },
+  {
+    "info": {
+      "iso": "hnl",
+      "iso-num": 340,
+      "symbol": "./symbol/hnl-340.svg",
+      "unicode": "l"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "hnd"
+    ]
+  },
+  {
+    "info": {
+      "iso": "htg",
+      "iso-num": 332,
+      "symbol": "./symbol/htg-332.svg"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "hti"
+    ]
+  },
+  {
+    "info": {
+      "iso": "huf",
+      "iso-num": 348,
+      "symbol": "./symbol/huf-348.svg",
+      "unicode": "ft"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "hun"
+    ]
+  },
+  {
+    "info": {
+      "iso": "idr",
+      "iso-num": 360,
+      "symbol": "./symbol/idr-360.svg",
+      "unicode": "rp"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "idn"
+    ]
+  },
+  {
+    "info": {
+      "iso": "ils",
+      "iso-num": 376,
+      "symbol": "./symbol/ils-376.svg",
+      "unicode": "₪"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "isr"
+    ]
+  },
+  {
+    "info": {
+      "iso": "inr",
+      "iso-num": 356,
+      "symbol": "./symbol/inr-356.svg",
+      "unicode": "₹"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "iot",
+      "btn"
+    ]
+  },
+  {
+    "info": {
+      "iso": "iqd",
+      "iso-num": 368,
+      "symbol": "./symbol/iqd-368.svg"
+    },
+    "secondary-unit-info": {
+      "rate": "1000"
+    },
+    "users": [
+      "irq"
+    ]
+  },
+  {
+    "info": {
+      "iso": "irr",
+      "iso-num": 364,
+      "symbol": "./symbol/irr-364.svg",
+      "unicode": "﷼"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "irn"
+    ]
+  },
+  {
+    "info": {
+      "iso": "isk",
+      "iso-num": 352,
+      "symbol": "./symbol/isk-352.svg",
+      "unicode": "kr"
+    },
+    "secondary-unit-info": {
+      "rate": null
+    },
+    "users": [
+      "isl"
+    ]
+  },
+  {
+    "info": {
+      "iso": "jmd",
+      "iso-num": 388,
+      "symbol": "./symbol/jmd-388.svg",
+      "unicode": "j$"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "jam"
+    ]
+  },
+  {
+    "info": {
+      "iso": "jod",
+      "iso-num": 400,
+      "symbol": "./symbol/jod-400.svg"
+    },
+    "secondary-unit-info": {
+      "rate": "1000"
+    },
+    "users": [
+      "jor"
+    ],
+    "peg-info": [
+      {
+        "rate": 0.709,
+        "iso": "usd"
+      }
+    ]
+  },
+  {
+    "info": {
+      "iso": "jpy",
+      "iso-num": 392,
+      "symbol": "./symbol/jpy-392.svg",
+      "unicode": "¥"
+    },
+    "secondary-unit-info": {
+      "rate": null
+    },
+    "users": [
+      "jpn"
+    ]
+  },
+  {
+    "info": {
+      "iso": "kes",
+      "iso-num": 404,
+      "symbol": "./symbol/kes-404.svg"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "ken"
+    ]
+  },
+  {
+    "info": {
+      "iso": "kgs",
+      "iso-num": 417,
+      "symbol": "./symbol/kgs-417.svg",
+      "unicode": "лв"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "kgz"
+    ]
+  },
+  {
+    "info": {
+      "iso": "khr",
+      "iso-num": 116,
+      "symbol": "./symbol/khr-116.svg",
+      "unicode": "៛"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "khm"
+    ]
+  },
+  {
+    "info": {
+      "iso": "kmf",
+      "iso-num": 174,
+      "symbol": "./symbol/kmf-174.svg"
+    },
+    "secondary-unit-info": {
+      "rate": null
+    },
+    "users": [
+      "com"
+    ],
+    "peg-info": [
+      {
+        "rate": 491.96775,
+        "iso": "che"
+      }
+    ]
+  },
+  {
+    "info": {
+      "iso": "kpw",
+      "iso-num": 408,
+      "symbol": "./symbol/kpw-408.svg",
+      "unicode": "₩"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "prk"
+    ]
+  },
+  {
+    "info": {
+      "iso": "krw",
+      "iso-num": 410,
+      "symbol": "./symbol/krw-410.svg",
+      "unicode": "₩"
+    },
+    "secondary-unit-info": {
+      "rate": null
+    },
+    "users": [
+      "kor"
+    ]
+  },
+  {
+    "info": {
+      "iso": "kwd",
+      "iso-num": 414,
+      "symbol": "./symbol/kwd-414.svg"
+    },
+    "secondary-unit-info": {
+      "rate": "1000"
+    },
+    "users": [
+      "kwt"
+    ]
+  },
+  {
+    "info": {
+      "iso": "kyd",
+      "iso-num": 136,
+      "symbol": "./symbol/kyd-136.svg",
+      "unicode": "$"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "cym"
+    ],
+    "peg-info": [
+      {
+        "rate": 0.83333,
+        "iso": "usd"
+      }
+    ]
+  },
+  {
+    "info": {
+      "iso": "kzt",
+      "iso-num": 398,
+      "symbol": "./symbol/kzt-398.svg",
+      "unicode": "лв"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "kaz"
+    ]
+  },
+  {
+    "info": {
+      "iso": "lak",
+      "iso-num": 418,
+      "symbol": "./symbol/lak-418.svg",
+      "unicode": "₭"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "lao"
+    ]
+  },
+  {
+    "info": {
+      "iso": "lbp",
+      "iso-num": 422,
+      "symbol": "./symbol/lbp-422.svg",
+      "unicode": "£"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "lbn"
+    ],
+    "peg-info": [
+      {
+        "rate": 1507.5,
+        "iso": "usd"
+      }
+    ]
+  },
+  {
+    "info": {
+      "iso": "lkr",
+      "iso-num": 144,
+      "symbol": "./symbol/lkr-144.svg",
+      "unicode": "₨"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "lka"
+    ]
+  },
+  {
+    "info": {
+      "iso": "lrd",
+      "iso-num": 430,
+      "symbol": "./symbol/lrd-430.svg",
+      "unicode": "$"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "lbr"
+    ]
+  },
+  {
+    "info": {
+      "iso": "lsl",
+      "iso-num": 426,
+      "symbol": "./symbol/lsl-426.svg"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "lso"
+    ],
+    "peg-info": [
+      {
+        "rate": 1,
+        "iso": "zar"
+      }
+    ]
+  },
+  {
+    "info": {
+      "iso": "lyd",
+      "iso-num": 434,
+      "symbol": "./symbol/lyd-434.svg"
+    },
+    "secondary-unit-info": {
+      "rate": "1000"
+    },
+    "users": [
+      "lby"
+    ]
+  },
+  {
+    "info": {
+      "iso": "mad",
+      "iso-num": 504,
+      "symbol": "./symbol/mad-504.svg"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "mar",
+      "esh"
+    ]
+  },
+  {
+    "info": {
+      "iso": "mdl",
+      "iso-num": 498,
+      "symbol": "./symbol/mdl-498.svg"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "mda"
+    ]
+  },
+  {
+    "info": {
+      "iso": "mga",
+      "iso-num": 969,
+      "symbol": "./symbol/mga-969.svg"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "mdg"
+    ]
+  },
+  {
+    "info": {
+      "iso": "mkd",
+      "iso-num": 807,
+      "symbol": "./symbol/mkd-807.svg",
+      "unicode": "ден"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "mkd"
+    ]
+  },
+  {
+    "info": {
+      "iso": "mmk",
+      "iso-num": 104,
+      "symbol": "./symbol/mmk-104.svg"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "mmr"
+    ]
+  },
+  {
+    "info": {
+      "iso": "mnt",
+      "iso-num": 496,
+      "symbol": "./symbol/mnt-496.svg",
+      "unicode": "د.إ"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "mng"
+    ]
+  },
+  {
+    "info": {
+      "iso": "mop",
+      "iso-num": 446,
+      "symbol": "./symbol/mop-446.svg"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "mac"
+    ],
+    "peg-info": [
+      {
+        "rate": 1.03,
+        "iso": "hkd"
+      }
+    ]
+  },
+  {
+    "info": {
+      "iso": "mru",
+      "iso-num": 929,
+      "symbol": "./symbol/mru-929.svg"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "mrt"
+    ]
+  },
+  {
+    "info": {
+      "iso": "mur",
+      "iso-num": 480,
+      "symbol": "./symbol/mur-480.svg",
+      "unicode": "₨"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "mus"
+    ]
+  },
+  {
+    "info": {
+      "iso": "mvr",
+      "iso-num": 462,
+      "symbol": "./symbol/mvr-462.svg"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "mdv"
+    ],
+    "peg-info": [
+      {
+        "rate": 10.28,
+        "iso": "usd"
+      }
+    ]
+  },
+  {
+    "info": {
+      "iso": "mwk",
+      "iso-num": 454,
+      "symbol": "./symbol/mwk-454.svg"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "mwi"
+    ]
+  },
+  {
+    "info": {
+      "iso": "mxn",
+      "iso-num": 484,
+      "symbol": "./symbol/mxn-484.svg",
+      "unicode": "$"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "mex"
+    ]
+  },
+  {
+    "info": {
+      "iso": "mxv",
+      "iso-num": 979,
+      "symbol": "./symbol/mxv-979.svg"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "mex"
+    ]
+  },
+  {
+    "info": {
+      "iso": "myr",
+      "iso-num": 458,
+      "symbol": "./symbol/myr-458.svg",
+      "unicode": "rm"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "mys"
+    ]
+  },
+  {
+    "info": {
+      "iso": "mzn",
+      "iso-num": 943,
+      "symbol": "./symbol/mzn-943.svg",
+      "unicode": "mt"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "moz"
+    ]
+  },
+  {
+    "info": {
+      "iso": "nad",
+      "iso-num": 516,
+      "symbol": "./symbol/nad-516.svg",
+      "unicode": "$"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "nam"
+    ],
+    "peg-info": [
+      {
+        "rate": 1,
+        "iso": "zar"
+      }
+    ]
+  },
+  {
+    "info": {
+      "iso": "ngn",
+      "iso-num": 566,
+      "symbol": "./symbol/ngn-566.svg",
+      "unicode": "₦"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "nga"
+    ]
+  },
+  {
+    "info": {
+      "iso": "nio",
+      "iso-num": 558,
+      "symbol": "./symbol/nio-558.svg",
+      "unicode": "c$"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "nic"
+    ]
+  },
+  {
+    "info": {
+      "iso": "nok",
+      "iso-num": 578,
+      "symbol": "./symbol/nok-578.svg",
+      "unicode": "kr"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "nor",
+      "sjm",
+      "bvt"
+    ]
+  },
+  {
+    "info": {
+      "iso": "npr",
+      "iso-num": 524,
+      "symbol": "./symbol/npr-524.svg",
+      "unicode": "₨"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "npl"
+    ],
+    "peg-info": [
+      {
+        "rate": 1.6,
+        "iso": "inr"
+      }
+    ]
+  },
+  {
+    "info": {
+      "iso": "nzd",
+      "iso-num": 554,
+      "symbol": "./symbol/nzd-554.svg",
+      "unicode": "$"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "nzl",
+      "cok",
+      "niu",
+      "pcn",
+      "tkl"
+    ]
+  },
+  {
+    "info": {
+      "iso": "omr",
+      "iso-num": 512,
+      "symbol": "./symbol/omr-512.svg",
+      "unicode": "﷼"
+    },
+    "secondary-unit-info": {
+      "rate": "1000"
+    },
+    "users": [
+      "omn"
+    ],
+    "peg-info": [
+      {
+        "rate": 0.38449,
+        "iso": "usd"
+      }
+    ]
+  },
+  {
+    "info": {
+      "iso": "pab",
+      "iso-num": 590,
+      "symbol": "./symbol/pab-590.svg",
+      "unicode": "b/."
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "pan"
+    ],
+    "peg-info": [
+      {
+        "rate": 1,
+        "iso": "usd"
+      }
+    ]
+  },
+  {
+    "info": {
+      "iso": "pen",
+      "iso-num": 604,
+      "symbol": "./symbol/pen-604.svg",
+      "unicode": "s/."
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "per"
+    ]
+  },
+  {
+    "info": {
+      "iso": "pgk",
+      "iso-num": 598,
+      "symbol": "./symbol/pgk-598.svg"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "gin"
+    ]
+  },
+  {
+    "info": {
+      "iso": "php",
+      "iso-num": 608,
+      "symbol": "./symbol/php-608.svg",
+      "unicode": "₱"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "phl"
+    ]
+  },
+  {
+    "info": {
+      "iso": "pkr",
+      "iso-num": 586,
+      "symbol": "./symbol/pkr-586.svg",
+      "unicode": "₨"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "pak"
+    ]
+  },
+  {
+    "info": {
+      "iso": "pln",
+      "iso-num": 985,
+      "symbol": "./symbol/pln-985.svg",
+      "unicode": "zł"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "pol"
+    ]
+  },
+  {
+    "info": {
+      "iso": "pyg",
+      "iso-num": 600,
+      "symbol": "./symbol/pyg-600.svg",
+      "unicode": "gs"
+    },
+    "secondary-unit-info": {
+      "rate": null
+    },
+    "users": [
+      "pry"
+    ]
+  },
+  {
+    "info": {
+      "iso": "qar",
+      "iso-num": 634,
+      "symbol": "./symbol/qar-634.svg",
+      "unicode": "﷼"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "qat"
+    ],
+    "peg-info": [
+      {
+        "rate": 3.64,
+        "iso": "usd"
+      }
+    ]
+  },
+  {
+    "info": {
+      "iso": "ron",
+      "iso-num": 946,
+      "symbol": "./symbol/ron-946.svg",
+      "unicode": "lei"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "omn"
+    ]
+  },
+  {
+    "info": {
+      "iso": "rsd",
+      "iso-num": 941,
+      "symbol": "./symbol/rsd-941.svg",
+      "unicode": "дин."
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "srb"
+    ]
+  },
+  {
+    "info": {
+      "iso": "cny",
+      "iso-num": 156,
+      "symbol": "./symbol/cny-156.svg",
+      "unicode": "¥"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "chn"
+    ]
+  },
+  {
+    "info": {
+      "iso": "rub",
+      "iso-num": 643,
+      "symbol": "./symbol/rub-643.svg",
+      "unicode": "₽"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "rus"
+    ]
+  },
+  {
+    "info": {
+      "iso": "rwf",
+      "iso-num": 646,
+      "symbol": "./symbol/rwf-646.svg"
+    },
+    "secondary-unit-info": {
+      "rate": null
+    },
+    "users": [
+      "rwa"
+    ]
+  },
+  {
+    "info": {
+      "iso": "sar",
+      "iso-num": 682,
+      "symbol": "./symbol/sar-682.svg",
+      "unicode": "﷼"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "sau"
+    ],
+    "peg-info": [
+      {
+        "rate": 3.75,
+        "iso": "usd"
+      }
+    ]
+  },
+  {
+    "info": {
+      "iso": "sbd",
+      "iso-num": 90,
+      "symbol": "./symbol/sbd-90.svg",
+      "unicode": "$"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "slb"
+    ]
+  },
+  {
+    "info": {
+      "iso": "scr",
+      "iso-num": 690,
+      "symbol": "./symbol/scr-690.svg",
+      "unicode": "₨"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "syc"
+    ]
+  },
+  {
+    "info": {
+      "iso": "sdg",
+      "iso-num": 938,
+      "symbol": "./symbol/sdg-938.svg"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "ssd"
+    ]
+  },
+  {
+    "info": {
+      "iso": "sek",
+      "iso-num": 752,
+      "symbol": "./symbol/sek-752.svg",
+      "unicode": "kr"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "swe"
+    ]
+  },
+  {
+    "info": {
+      "iso": "sgd",
+      "iso-num": 702,
+      "symbol": "./symbol/sgd-702.svg",
+      "unicode": "$"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "sgp"
+    ]
+  },
+  {
+    "info": {
+      "iso": "shp",
+      "iso-num": 654,
+      "symbol": "./symbol/shp-654.svg",
+      "unicode": "£"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "shn",
+      "shn"
+    ],
+    "peg-info": [
+      {
+        "rate": 1,
+        "iso": "gbp"
+      }
+    ]
+  },
+  {
+    "info": {
+      "iso": "sle",
+      "iso-num": 925,
+      "symbol": "./symbol/sle-925.svg"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "sle"
+    ]
+  },
+  {
+    "info": {
+      "iso": "sll",
+      "iso-num": 694,
+      "symbol": "./symbol/sll-694.svg"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "sle"
+    ]
+  },
+  {
+    "info": {
+      "iso": "sos",
+      "iso-num": 706,
+      "symbol": "./symbol/sos-706.svg",
+      "unicode": "s"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "mli"
+    ]
+  },
+  {
+    "info": {
+      "iso": "srd",
+      "iso-num": 968,
+      "symbol": "./symbol/srd-968.svg",
+      "unicode": "$"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "sur"
+    ]
+  },
+  {
+    "info": {
+      "iso": "ssp",
+      "iso-num": 728,
+      "symbol": "./symbol/ssp-728.svg"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "ssd"
+    ]
+  },
+  {
+    "info": {
+      "iso": "stn",
+      "iso-num": 930,
+      "symbol": "./symbol/stn-930.svg"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "stp"
+    ],
+    "peg-info": [
+      {
+        "rate": 24.5,
+        "iso": "che"
+      }
+    ]
+  },
+  {
+    "info": {
+      "iso": "svc",
+      "iso-num": 222,
+      "symbol": "./symbol/svc-222.svg",
+      "unicode": "$"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "slv"
+    ]
+  },
+  {
+    "info": {
+      "iso": "syp",
+      "iso-num": 760,
+      "symbol": "./symbol/syp-760.svg",
+      "unicode": "£"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "syr"
+    ]
+  },
+  {
+    "info": {
+      "iso": "szl",
+      "iso-num": 748,
+      "symbol": "./symbol/szl-748.svg"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "swz"
+    ],
+    "peg-info": [
+      {
+        "rate": 1,
+        "iso": "zar"
+      }
+    ]
+  },
+  {
+    "info": {
+      "iso": "thb",
+      "iso-num": 764,
+      "symbol": "./symbol/thb-764.svg",
+      "unicode": "฿"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "tha"
+    ]
+  },
+  {
+    "info": {
+      "iso": "tjs",
+      "iso-num": 972,
+      "symbol": "./symbol/tjs-972.svg"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "tjk"
+    ]
+  },
+  {
+    "info": {
+      "iso": "tmt",
+      "iso-num": 934,
+      "symbol": "./symbol/tmt-934.svg"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "tkm"
+    ]
+  },
+  {
+    "info": {
+      "iso": "tnd",
+      "iso-num": 788,
+      "symbol": "./symbol/tnd-788.svg"
+    },
+    "secondary-unit-info": {
+      "rate": "1000"
+    },
+    "users": [
+      "tun"
+    ]
+  },
+  {
+    "info": {
+      "iso": "top",
+      "iso-num": 776,
+      "symbol": "./symbol/top-776.svg"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "ton"
+    ]
+  },
+  {
+    "info": {
+      "iso": "try",
+      "iso-num": 949,
+      "symbol": "./symbol/try-949.svg",
+      "unicode": "₺"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "tur"
+    ]
+  },
+  {
+    "info": {
+      "iso": "ttd",
+      "iso-num": 780,
+      "symbol": "./symbol/ttd-780.svg",
+      "unicode": "tt$"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "tto"
+    ]
+  },
+  {
+    "info": {
+      "iso": "twd",
+      "iso-num": 901,
+      "symbol": "./symbol/twd-901.svg",
+      "unicode": "nt$"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "twn"
+    ]
+  },
+  {
+    "info": {
+      "iso": "tzs",
+      "iso-num": 834,
+      "symbol": "./symbol/tzs-834.svg"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "tza"
+    ]
+  },
+  {
+    "info": {
+      "iso": "uah",
+      "iso-num": 980,
+      "symbol": "./symbol/uah-980.svg",
+      "unicode": "₴"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "ukr"
+    ]
+  },
+  {
+    "info": {
+      "iso": "ugx",
+      "iso-num": 800,
+      "symbol": "./symbol/ugx-800.svg",
+      "unicode": "/="
+    },
+    "secondary-unit-info": {
+      "rate": null
+    },
+    "users": [
+      "uga"
+    ]
+  },
+  {
+    "info": {
+      "iso": "usd",
+      "iso-num": 840,
+      "symbol": "./symbol/usd-840.svg",
+      "unicode": "$"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "umi",
+      "asm",
+      "iot",
+      "vgb",
+      "bes",
+      "ecu",
+      "slv",
+      "gum",
+      "mhl",
+      "fsm",
+      "mnp",
+      "plw",
+      "pan",
+      "pri",
+      "tls",
+      "tca",
+      "vir",
+      "umi"
+    ]
+  },
+  {
+    "info": {
+      "iso": "usn",
+      "iso-num": 997,
+      "symbol": "./symbol/usn-997.svg"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "umi"
+    ]
+  },
+  {
+    "info": {
+      "iso": "uyi",
+      "iso-num": 940,
+      "symbol": "./symbol/uyi-940.svg"
+    },
+    "secondary-unit-info": {
+      "rate": null
+    },
+    "users": [
+      "ury"
+    ]
+  },
+  {
+    "info": {
+      "iso": "uyu",
+      "iso-num": 858,
+      "symbol": "./symbol/uyu-858.svg",
+      "unicode": "$u"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "ury"
+    ]
+  },
+  {
+    "info": {
+      "iso": "uyw",
+      "iso-num": 927,
+      "symbol": "./symbol/uyw-927.svg"
+    },
+    "secondary-unit-info": {
+      "rate": "10000"
+    },
+    "users": [
+      "ury"
+    ]
+  },
+  {
+    "info": {
+      "iso": "uzs",
+      "iso-num": 860,
+      "symbol": "./symbol/uzs-860.svg",
+      "unicode": "лв"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "uzb"
+    ]
+  },
+  {
+    "info": {
+      "iso": "ved",
+      "iso-num": 926,
+      "symbol": "./symbol/ved-926.svg"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "ven"
+    ]
+  },
+  {
+    "info": {
+      "iso": "ves",
+      "iso-num": 928,
+      "symbol": "./symbol/ves-928.svg"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "ven"
+    ]
+  },
+  {
+    "info": {
+      "iso": "vnd",
+      "iso-num": 704,
+      "symbol": "./symbol/vnd-704.svg",
+      "unicode": "₫"
+    },
+    "secondary-unit-info": {
+      "rate": null
+    },
+    "users": [
+      "vnm"
+    ]
+  },
+  {
+    "info": {
+      "iso": "vuv",
+      "iso-num": 548,
+      "symbol": "./symbol/vuv-548.svg"
+    },
+    "secondary-unit-info": {
+      "rate": null
+    },
+    "users": [
+      "vut"
+    ]
+  },
+  {
+    "info": {
+      "iso": "wst",
+      "iso-num": 882,
+      "symbol": "./symbol/wst-882.svg"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "asm"
+    ]
+  },
+  {
+    "info": {
+      "iso": "xaf",
+      "iso-num": 950,
+      "symbol": "./symbol/xaf-950.svg"
+    },
+    "secondary-unit-info": {
+      "rate": null
+    },
+    "users": [
+      "cmr",
+      "caf",
+      "cod",
+      "tcd",
+      "gnq",
+      "gab"
+    ],
+    "peg-info": [
+      {
+        "rate": 655.957,
+        "iso": "che"
+      }
+    ]
+  },
+  {
+    "info": {
+      "iso": "xag",
+      "iso-num": 961,
+      "symbol": "./symbol/xag-961.svg"
+    },
+    "secondary-unit-info": {
+      "rate": null
+    },
+    "users": []
+  },
+  {
+    "info": {
+      "iso": "xau",
+      "iso-num": 959,
+      "symbol": "./symbol/xau-959.svg"
+    },
+    "secondary-unit-info": {
+      "rate": null
+    },
+    "users": []
+  },
+  {
+    "info": {
+      "iso": "xba",
+      "iso-num": 955,
+      "symbol": "./symbol/xba-955.svg"
+    },
+    "secondary-unit-info": {
+      "rate": null
+    },
+    "users": [],
+    "life-span": {
+      "created": "1975",
+      "deprecated": "1979",
+      "replaced-by": [
+        "xeu"
+      ]
+    }
+  },
+  {
+    "info": {
+      "iso": "xbb",
+      "iso-num": 956,
+      "symbol": "./symbol/xbb-956.svg"
+    },
+    "secondary-unit-info": {
+      "rate": null
+    },
+    "users": [],
+    "life-span": {
+      "created": "1975",
+      "deprecated": "1979",
+      "replaced-by": [
+        "xeu"
+      ]
+    }
+  },
+  {
+    "info": {
+      "iso": "xbc",
+      "iso-num": 957,
+      "symbol": "./symbol/xbc-957.svg"
+    },
+    "secondary-unit-info": {
+      "rate": null
+    },
+    "users": []
+  },
+  {
+    "info": {
+      "iso": "xbd",
+      "iso-num": 958,
+      "symbol": "./symbol/xbd-958.svg"
+    },
+    "secondary-unit-info": {
+      "rate": null
+    },
+    "users": []
+  },
+  {
+    "info": {
+      "iso": "xcd",
+      "iso-num": 951,
+      "symbol": "./symbol/xcd-951.svg",
+      "unicode": "$"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "aia",
+      "atg",
+      "dma",
+      "grd",
+      "msr",
+      "kna",
+      "lca",
+      "vct"
+    ],
+    "peg-info": [
+      {
+        "rate": 2.7,
+        "iso": "usd"
+      }
+    ]
+  },
+  {
+    "info": {
+      "iso": "xdr",
+      "iso-num": 960,
+      "symbol": "./symbol/xdr-960.svg"
+    },
+    "secondary-unit-info": {
+      "rate": null
+    },
+    "users": [
+      "International Monetary Fund"
+    ]
+  },
+  {
+    "info": {
+      "iso": "xof",
+      "iso-num": 952,
+      "symbol": "./symbol/xof-952.svg",
+      "unicode": null
+    },
+    "secondary-unit-info": {
+      "rate": null
+    },
+    "users": [
+      "ben",
+      "bfa",
+      "civ",
+      "gin",
+      "mli",
+      "ner",
+      "sen",
+      "tgo"
+    ],
+    "peg-info": [
+      {
+        "rate": 655.957,
+        "iso": "che"
+      }
+    ]
+  },
+  {
+    "info": {
+      "iso": "xpd",
+      "iso-num": 964,
+      "symbol": "./symbol/xpd-964.svg"
+    },
+    "secondary-unit-info": {
+      "rate": null
+    },
+    "users": []
+  },
+  {
+    "info": {
+      "iso": "xpf",
+      "iso-num": 953,
+      "symbol": "./symbol/xpf-953.svg"
+    },
+    "secondary-unit-info": {
+      "rate": null
+    },
+    "users": [
+      "pyf",
+      "ncl",
+      "wlf"
+    ],
+    "peg-info": [
+      {
+        "rate": 119.33174,
+        "iso": "che"
+      }
+    ]
+  },
+  {
+    "info": {
+      "iso": "xpt",
+      "iso-num": 962,
+      "symbol": "./symbol/xpt-962.svg"
+    },
+    "secondary-unit-info": {
+      "rate": null
+    },
+    "users": []
+  },
+  {
+    "info": {
+      "iso": "xsu",
+      "iso-num": 994,
+      "symbol": "./symbol/xsu-994.svg"
+    },
+    "secondary-unit-info": {
+      "rate": null
+    },
+    "users": [
+      "alba"
+    ]
+  },
+  {
+    "info": {
+      "iso": "xts",
+      "iso-num": 963,
+      "symbol": "./symbol/xts-963.svg"
+    },
+    "secondary-unit-info": {
+      "rate": null
+    },
+    "users": []
+  },
+  {
+    "info": {
+      "iso": "xua",
+      "iso-num": 965,
+      "symbol": "./symbol/xua-965.svg"
+    },
+    "secondary-unit-info": {
+      "rate": null
+    },
+    "users": [
+      "adb"
+    ]
+  },
+  {
+    "info": {
+      "iso": "xxx",
+      "iso-num": 999,
+      "symbol": "./symbol/xxx-999.svg"
+    },
+    "secondary-unit-info": {
+      "rate": null
+    },
+    "users": []
+  },
+  {
+    "info": {
+      "iso": "yer",
+      "iso-num": 886,
+      "symbol": "./symbol/yer-886.svg",
+      "unicode": "﷼"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "yem"
+    ]
+  },
+  {
+    "info": {
+      "iso": "zar",
+      "iso-num": 710,
+      "symbol": "./symbol/zar-710.svg",
+      "unicode": "r"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "swz",
+      "lso",
+      "nam",
+      "zaf"
+    ]
+  },
+  {
+    "info": {
+      "iso": "zmw",
+      "iso-num": 967,
+      "symbol": "./symbol/zmw-967.svg"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "zmb"
+    ]
+  },
+  {
+    "info": {
+      "iso": "zwl",
+      "iso-num": 932,
+      "symbol": "./symbol/zwl-932.svg"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "users": [
+      "zwe"
+    ]
+  },
+  {
+    "info": {
+      "iso": "xbt",
+      "iso-num": null,
+      "symbol": "./symbol/xbt-NaN.svg",
+      "unicode": "₿"
+    },
+    "secondary-unit-info": {
+      "rate": "10e-8"
+    },
+    "users": ["slv", "caf"]
+  },
+  {
+    "info": {
+      "iso": "btc",
+      "iso-num": null,
+      "symbol": "./symbol/btc-NaN.svg",
+      "unicode": "₿"
+    },
+    "secondary-unit-info": {
+      "rate": "10e-8"
+    },
+    "users": ["slv", "caf"]
+  }
+]

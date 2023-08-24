@@ -1,0 +1,6338 @@
+[
+  {
+    "country": "af",
+    "country-code": "afg",
+    "flag": "./flags/af/af.svg",
+    "info": {
+      "iso": "afn",
+      "numeric-code": 971,
+      "symbol": "./symbols/af/af-afg-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "؋"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "ax",
+    "country-code": "ala",
+    "flag": "./flags/ax/ax.svg",
+    "info": {
+      "iso": "eur",
+      "numeric-code": 978,
+      "symbol": "./symbols/ax/ax-ala-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "€"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "al",
+    "country-code": "alb",
+    "flag": "./flags/al/al.svg",
+    "info": {
+      "iso": "all",
+      "numeric-code": 8,
+      "symbol": "./symbols/al/al-alb-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "Lek"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "dz",
+    "country-code": "dza",
+    "flag": "./flags/dz/dz.svg",
+    "info": {
+      "iso": "dzd",
+      "numeric-code": 12,
+      "symbol": "./symbols/dz/dz-dza-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "د.ج.‏"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "as",
+    "country-code": "asm",
+    "flag": "./flags/as/as.svg",
+    "info": {
+      "iso": "usd",
+      "numeric-code": 840,
+      "symbol": "./symbols/as/as-asm-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "$"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "ad",
+    "country-code": "and",
+    "flag": "./flags/ad/ad.svg",
+    "info": {
+      "iso": "eur",
+      "numeric-code": 978,
+      "symbol": "./symbols/ad/ad-and-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "€"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "ao",
+    "country-code": "ago",
+    "flag": "./flags/ao/ao.svg",
+    "info": {
+      "iso": "aoa",
+      "numeric-code": 973,
+      "symbol": "./symbols/ao/ao-ago-filled-1.svg",
+      "currency-type": "LEGAL_TENDER"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "ai",
+    "country-code": "aia",
+    "flag": "./flags/ai/ai.svg",
+    "info": {
+      "iso": "xcd",
+      "numeric-code": 951,
+      "symbol": "./symbols/ai/ai-aia-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "EC$"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "ag",
+    "country-code": "atg",
+    "flag": "./flags/ag/ag.svg",
+    "info": {
+      "iso": "xcd",
+      "numeric-code": 951,
+      "symbol": "./symbols/ag/ag-atg-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "EC$"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "ar",
+    "country-code": "arg",
+    "flag": "./flags/ar/ar.svg",
+    "info": {
+      "iso": "ars",
+      "numeric-code": 32,
+      "symbol": "./symbols/ar/ar-arg-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "$"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "am",
+    "country-code": "arm",
+    "flag": "./flags/am/am.svg",
+    "info": {
+      "iso": "amd",
+      "numeric-code": 51,
+      "symbol": "./symbols/am/am-arm-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "֏"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "aw",
+    "country-code": "abw",
+    "flag": "./flags/aw/aw.svg",
+    "info": {
+      "iso": "awg",
+      "numeric-code": 533,
+      "symbol": "./symbols/aw/aw-abw-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "ƒ"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "au",
+    "country-code": "aus",
+    "flag": "./flags/au/au.svg",
+    "info": {
+      "iso": "aud",
+      "numeric-code": 36,
+      "symbol": "./symbols/au/au-aus-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "$"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "at",
+    "country-code": "aut",
+    "flag": "./flags/at/at.svg",
+    "info": {
+      "iso": "eur",
+      "numeric-code": 978,
+      "symbol": "./symbols/at/at-aut-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "€"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "az",
+    "country-code": "aze",
+    "flag": "./flags/az/az.svg",
+    "info": {
+      "iso": "azn",
+      "numeric-code": 944,
+      "symbol": "./symbols/az/az-aze-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "₼"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "bs",
+    "country-code": "bhs",
+    "flag": "./flags/bs/bs.svg",
+    "info": {
+      "iso": "bsd",
+      "numeric-code": 44,
+      "symbol": "./symbols/bs/bs-bhs-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "$"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "bh",
+    "country-code": "bhr",
+    "flag": "./flags/bh/bh.svg",
+    "info": {
+      "iso": "bhd",
+      "numeric-code": 48,
+      "symbol": "./symbols/bh/bh-bhr-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "د"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 1000
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "bd",
+    "country-code": "bgd",
+    "flag": "./flags/bd/bd.svg",
+    "info": {
+      "iso": "bdt",
+      "numeric-code": 50,
+      "symbol": "./symbols/bd/bd-bgd-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "৳"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "bb",
+    "country-code": "brb",
+    "flag": "./flags/bb/bb.svg",
+    "info": {
+      "iso": "bbd",
+      "numeric-code": 52,
+      "symbol": "./symbols/bb/bb-brb-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "$"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "by",
+    "country-code": "blr",
+    "flag": "./flags/by/by.svg",
+    "info": {
+      "iso": "byn",
+      "numeric-code": 933,
+      "symbol": "./symbols/by/by-blr-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "Руб"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "be",
+    "country-code": "bel",
+    "flag": "./flags/be/be.svg",
+    "info": {
+      "iso": "eur",
+      "numeric-code": 978,
+      "symbol": "./symbols/be/be-bel-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "€"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "bz",
+    "country-code": "blz",
+    "flag": "./flags/bz/bz.svg",
+    "info": {
+      "iso": "bzd",
+      "numeric-code": 84,
+      "symbol": "./symbols/bz/bz-blz-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "$"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "bj",
+    "country-code": "ben",
+    "flag": "./flags/bj/bj.svg",
+    "info": {
+      "iso": "xof",
+      "numeric-code": 952,
+      "symbol": "./symbols/bj/bj-ben-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "₣"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 1
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "bm",
+    "country-code": "bmu",
+    "flag": "./flags/bm/bm.svg",
+    "info": {
+      "iso": "bmd",
+      "numeric-code": 60,
+      "symbol": "./symbols/bm/bm-bmu-filled-1.svg",
+      "currency-type": "LEGAL_TENDER"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "bt",
+    "country-code": "btn",
+    "flag": "./flags/bt/bt.svg",
+    "info": {
+      "iso": "inr",
+      "numeric-code": 356,
+      "symbol": "./symbols/bt/bt-btn-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "₹"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "bt",
+    "country-code": "btn",
+    "flag": "./flags/bt/bt.svg",
+    "info": {
+      "iso": "btn",
+      "numeric-code": 64,
+      "symbol": "./symbols/bt/bt-btn-filled-1.svg",
+      "currency-type": "LEGAL_TENDER"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "bo",
+    "country-code": "bol",
+    "flag": "./flags/bo/bo.svg",
+    "info": {
+      "iso": "bob",
+      "numeric-code": 68,
+      "symbol": "./symbols/bo/bo-bol-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "B$"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "bo",
+    "country-code": "bol",
+    "flag": "./flags/bo/bo.svg",
+    "info": {
+      "iso": "bov",
+      "numeric-code": 984,
+      "symbol": "./symbols/bo/bo-bol-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "B$"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "bq",
+    "country-code": "bes",
+    "flag": "./flags/bq/bq.svg",
+    "info": {
+      "iso": "usd",
+      "numeric-code": 840,
+      "symbol": "./symbols/bq/bq-bes-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "$"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "ba",
+    "country-code": "bih",
+    "flag": "./flags/ba/ba.svg",
+    "info": {
+      "iso": "bam",
+      "numeric-code": 977,
+      "symbol": "./symbols/ba/ba-bih-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "BAM"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "bw",
+    "country-code": "bwa",
+    "flag": "./flags/bw/bw.svg",
+    "info": {
+      "iso": "bwp",
+      "numeric-code": 72,
+      "symbol": "./symbols/bw/bw-bwa-filled-1.svg",
+      "currency-type": "LEGAL_TENDER"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "bv",
+    "country-code": "bvt",
+    "flag": "./flags/bv/bv.svg",
+    "info": {
+      "iso": "nok",
+      "numeric-code": 578,
+      "symbol": "./symbols/bv/bv-bvt-filled-1.svg",
+      "currency-type": "LEGAL_TENDER"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "br",
+    "country-code": "bra",
+    "flag": "./flags/br/br.svg",
+    "info": {
+      "iso": "brl",
+      "numeric-code": 986,
+      "symbol": "./symbols/br/br-bra-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "R$"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "io",
+    "country-code": "iot",
+    "flag": "./flags/io/io.svg",
+    "info": {
+      "iso": "usd",
+      "numeric-code": 840,
+      "symbol": "./symbols/io/io-iot-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "$"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "bn",
+    "country-code": "brn",
+    "flag": "./flags/bn/bn.svg",
+    "info": {
+      "iso": "bnd",
+      "numeric-code": 96,
+      "symbol": "./symbols/bn/bn-brn-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "$"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "bg",
+    "country-code": "bgr",
+    "flag": "./flags/bg/bg.svg",
+    "info": {
+      "iso": "bgn",
+      "numeric-code": 975,
+      "symbol": "./symbols/bg/bg-bgr-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "лв."
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "bf",
+    "country-code": "bfa",
+    "flag": "./flags/bf/bf.svg",
+    "info": {
+      "iso": "xof",
+      "numeric-code": 952,
+      "symbol": "./symbols/bf/bf-bfa-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "₣"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 1
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "bi",
+    "country-code": "bdi",
+    "flag": "./flags/bi/bi.svg",
+    "info": {
+      "iso": "bif",
+      "numeric-code": 108,
+      "symbol": "./symbols/bi/bi-bdi-filled-1.svg",
+      "currency-type": "LEGAL_TENDER"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 1
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "cv",
+    "country-code": "cpv",
+    "flag": "./flags/cv/cv.svg",
+    "info": {
+      "iso": "cve",
+      "numeric-code": 132,
+      "symbol": "./symbols/cv/cv-cpv-filled-1.svg",
+      "currency-type": "LEGAL_TENDER"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "kh",
+    "country-code": "khm",
+    "flag": "./flags/kh/kh.svg",
+    "info": {
+      "iso": "khr",
+      "numeric-code": 116,
+      "symbol": "./symbols/kh/kh-khm-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "៛"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "cm",
+    "country-code": "cmr",
+    "flag": "./flags/cm/cm.svg",
+    "info": {
+      "iso": "xaf",
+      "numeric-code": 950,
+      "symbol": "./symbols/cm/cm-cmr-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "₣"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 1
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "ca",
+    "country-code": "can",
+    "flag": "./flags/ca/ca.svg",
+    "info": {
+      "iso": "cad",
+      "numeric-code": 124,
+      "symbol": "./symbols/ca/ca-can-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "$"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "ky",
+    "country-code": "cym",
+    "flag": "./flags/ky/ky.svg",
+    "info": {
+      "iso": "kyd",
+      "numeric-code": 136,
+      "symbol": "./symbols/ky/ky-cym-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "$"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "cf",
+    "country-code": "caf",
+    "flag": "./flags/cf/cf.svg",
+    "info": {
+      "iso": "xaf",
+      "numeric-code": 950,
+      "symbol": "./symbols/cf/cf-caf-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "₣"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 1
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "td",
+    "country-code": "tcd",
+    "flag": "./flags/td/td.svg",
+    "info": {
+      "iso": "xaf",
+      "numeric-code": 950,
+      "symbol": "./symbols/td/td-tcd-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "₣"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 1
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "cl",
+    "country-code": "chl",
+    "flag": "./flags/cl/cl.svg",
+    "info": {
+      "iso": "clp",
+      "numeric-code": 152,
+      "symbol": "./symbols/cl/cl-chl-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "Ch$"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 1
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "cl",
+    "country-code": "chl",
+    "flag": "./flags/cl/cl.svg",
+    "info": {
+      "iso": "clf",
+      "numeric-code": 990,
+      "symbol": "./symbols/cl/cl-chl-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "Ch$"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 10000
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "cn",
+    "country-code": "chn",
+    "flag": "./flags/cn/cn.svg",
+    "info": {
+      "iso": "cny",
+      "numeric-code": 156,
+      "symbol": "./symbols/cn/cn-chn-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "CN¥"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "cx",
+    "country-code": "cxr",
+    "flag": "./flags/cx/cx.svg",
+    "info": {
+      "iso": "aud",
+      "numeric-code": 36,
+      "symbol": "./symbols/cx/cx-cxr-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "$"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "cc",
+    "country-code": "cck",
+    "flag": "./flags/cc/cc.svg",
+    "info": {
+      "iso": "aud",
+      "numeric-code": 36,
+      "symbol": "./symbols/cc/cc-cck-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "$"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "co",
+    "country-code": "col",
+    "flag": "./flags/co/co.svg",
+    "info": {
+      "iso": "cop",
+      "numeric-code": 170,
+      "symbol": "./symbols/co/co-col-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "$"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "co",
+    "country-code": "col",
+    "flag": "./flags/co/co.svg",
+    "info": {
+      "iso": "cou",
+      "numeric-code": 970,
+      "symbol": "./symbols/co/co-col-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "$"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "km",
+    "country-code": "com",
+    "flag": "./flags/km/km.svg",
+    "info": {
+      "iso": "kmf",
+      "numeric-code": 174,
+      "symbol": "./symbols/km/km-com-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "₣"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 1
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "cd",
+    "country-code": "cod",
+    "flag": "./flags/cd/cd.svg",
+    "info": {
+      "iso": "cdf",
+      "numeric-code": 976,
+      "symbol": "./symbols/cd/cd-cod-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "₣"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "cg",
+    "country-code": "cog",
+    "flag": "./flags/cg/cg.svg",
+    "info": {
+      "iso": "xaf",
+      "numeric-code": 950,
+      "symbol": "./symbols/cg/cg-cog-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "₣"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 1
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "ck",
+    "country-code": "cok",
+    "flag": "./flags/ck/ck.svg",
+    "info": {
+      "iso": "nzd",
+      "numeric-code": 554,
+      "symbol": "./symbols/ck/ck-cok-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "$"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "cr",
+    "country-code": "cri",
+    "flag": "./flags/cr/cr.svg",
+    "info": {
+      "iso": "crc",
+      "numeric-code": 188,
+      "symbol": "./symbols/cr/cr-cri-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "₡"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "ci",
+    "country-code": "civ",
+    "flag": "./flags/ci/ci.svg",
+    "info": {
+      "iso": "xof",
+      "numeric-code": 952,
+      "symbol": "./symbols/ci/ci-civ-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "₣"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 1
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "hr",
+    "country-code": "hrv",
+    "flag": "./flags/hr/hr.svg",
+    "info": {
+      "iso": "eur",
+      "numeric-code": 978,
+      "symbol": "./symbols/hr/hr-hrv-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "€"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "cu",
+    "country-code": "cub",
+    "flag": "./flags/cu/cu.svg",
+    "info": {
+      "iso": "cup",
+      "numeric-code": 192,
+      "symbol": "./symbols/cu/cu-cub-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "CU$"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "cu",
+    "country-code": "cub",
+    "flag": "./flags/cu/cu.svg",
+    "info": {
+      "iso": "cuc",
+      "numeric-code": 931,
+      "symbol": "./symbols/cu/cu-cub-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "CU$"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "cw",
+    "country-code": "cuw",
+    "flag": "./flags/cw/cw.svg",
+    "info": {
+      "iso": "ang",
+      "numeric-code": 532,
+      "symbol": "./symbols/cw/cw-cuw-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "ƒ"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "cy",
+    "country-code": "cyp",
+    "flag": "./flags/cy/cy.svg",
+    "info": {
+      "iso": "eur",
+      "numeric-code": 978,
+      "symbol": "./symbols/cy/cy-cyp-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "€"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "cz",
+    "country-code": "cze",
+    "flag": "./flags/cz/cz.svg",
+    "info": {
+      "iso": "czk",
+      "numeric-code": 203,
+      "symbol": "./symbols/cz/cz-cze-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "Kč"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "dk",
+    "country-code": "dnk",
+    "flag": "./flags/dk/dk.svg",
+    "info": {
+      "iso": "dkk",
+      "numeric-code": 208,
+      "symbol": "./symbols/dk/dk-dnk-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "kr"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "dj",
+    "country-code": "dji",
+    "flag": "./flags/dj/dj.svg",
+    "info": {
+      "iso": "djf",
+      "numeric-code": 262,
+      "symbol": "./symbols/dj/dj-dji-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "₣"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 1
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "dm",
+    "country-code": "dma",
+    "flag": "./flags/dm/dm.svg",
+    "info": {
+      "iso": "xcd",
+      "numeric-code": 951,
+      "symbol": "./symbols/dm/dm-dma-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "EC$"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "do",
+    "country-code": "dom",
+    "flag": "./flags/do/do.svg",
+    "info": {
+      "iso": "dop",
+      "numeric-code": 214,
+      "symbol": "./symbols/do/do-dom-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "RD$"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "ec",
+    "country-code": "ecu",
+    "flag": "./flags/ec/ec.svg",
+    "info": {
+      "iso": "usd",
+      "numeric-code": 840,
+      "symbol": "./symbols/ec/ec-ecu-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "$"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "eg",
+    "country-code": "egy",
+    "flag": "./flags/eg/eg.svg",
+    "info": {
+      "iso": "egp",
+      "numeric-code": 818,
+      "symbol": "./symbols/eg/eg-egy-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "ج.م.‏"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "sv",
+    "country-code": "slv",
+    "flag": "./flags/sv/sv.svg",
+    "info": {
+      "iso": "svc",
+      "numeric-code": 222,
+      "symbol": "./symbols/sv/sv-slv-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "C"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "sv",
+    "country-code": "slv",
+    "flag": "./flags/sv/sv.svg",
+    "info": {
+      "iso": "usd",
+      "numeric-code": 840,
+      "symbol": "./symbols/sv/sv-slv-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "C"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "gq",
+    "country-code": "gnq",
+    "flag": "./flags/gq/gq.svg",
+    "info": {
+      "iso": "xaf",
+      "numeric-code": 950,
+      "symbol": "./symbols/gq/gq-gnq-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "₣"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 1
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "er",
+    "country-code": "eri",
+    "flag": "./flags/er/er.svg",
+    "info": {
+      "iso": "ern",
+      "numeric-code": 232,
+      "symbol": "./symbols/er/er-eri-filled-1.svg",
+      "currency-type": "LEGAL_TENDER"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "ee",
+    "country-code": "est",
+    "flag": "./flags/ee/ee.svg",
+    "info": {
+      "iso": "eur",
+      "numeric-code": 978,
+      "symbol": "./symbols/ee/ee-est-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "€"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "sz",
+    "country-code": "swz",
+    "flag": "./flags/sz/sz.svg",
+    "info": {
+      "iso": "szl",
+      "numeric-code": 748,
+      "symbol": "./symbols/sz/sz-swz-filled-1.svg",
+      "currency-type": "LEGAL_TENDER"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "et",
+    "country-code": "eth",
+    "flag": "./flags/et/et.svg",
+    "info": {
+      "iso": "etb",
+      "numeric-code": 230,
+      "symbol": "./symbols/et/et-eth-filled-1.svg",
+      "currency-type": "LEGAL_TENDER"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "eur",
+    "country-code": "978",
+    "flag": "./flags/eur/eur.svg",
+    "info": {
+      "iso": "eur",
+      "numeric-code": 978,
+      "symbol": "./symbols/eur/eur-978-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "€"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "fk",
+    "country-code": "flk",
+    "flag": "./flags/fk/fk.svg",
+    "info": {
+      "iso": "fkp",
+      "numeric-code": 238,
+      "symbol": "./symbols/fk/fk-flk-filled-1.svg",
+      "currency-type": "LEGAL_TENDER"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "fo",
+    "country-code": "fro",
+    "flag": "./flags/fo/fo.svg",
+    "info": {
+      "iso": "dkk",
+      "numeric-code": 208,
+      "symbol": "./symbols/fo/fo-fro-filled-1.svg",
+      "currency-type": "LEGAL_TENDER"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "fj",
+    "country-code": "fji",
+    "flag": "./flags/fj/fj.svg",
+    "info": {
+      "iso": "fjd",
+      "numeric-code": 242,
+      "symbol": "./symbols/fj/fj-fji-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "$"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "ax",
+    "country-code": "ala",
+    "flag": "./flags/ax/ax.svg",
+    "info": {
+      "iso": "eur",
+      "numeric-code": 978,
+      "symbol": "./symbols/ax/ax-ala-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "€"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "fr",
+    "country-code": "fra",
+    "flag": "./flags/fr/fr.svg",
+    "info": {
+      "iso": "eur",
+      "numeric-code": 978,
+      "symbol": "./symbols/fr/fr-fra-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "€"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "gf",
+    "country-code": "guf",
+    "flag": "./flags/gf/gf.svg",
+    "info": {
+      "iso": "eur",
+      "numeric-code": 978,
+      "symbol": "./symbols/gf/gf-guf-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "€"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "pf",
+    "country-code": "pyf",
+    "flag": "./flags/pf/pf.svg",
+    "info": {
+      "iso": "xpf",
+      "numeric-code": 953,
+      "symbol": "./symbols/pf/pf-pyf-filled-1.svg",
+      "currency-type": "LEGAL_TENDER"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 1
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "tf",
+    "country-code": "atf",
+    "flag": "./flags/tf/tf.svg",
+    "info": {
+      "iso": "eur",
+      "numeric-code": 978,
+      "symbol": "./symbols/tf/tf-atf-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "€"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "ga",
+    "country-code": "gab",
+    "flag": "./flags/ga/ga.svg",
+    "info": {
+      "iso": "xaf",
+      "numeric-code": 950,
+      "symbol": "./symbols/ga/ga-gab-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "₣"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 1
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "gm",
+    "country-code": "gmb",
+    "flag": "./flags/gm/gm.svg",
+    "info": {
+      "iso": "gmd",
+      "numeric-code": 270,
+      "symbol": "./symbols/gm/gm-gmb-filled-1.svg",
+      "currency-type": "LEGAL_TENDER"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "ge",
+    "country-code": "geo",
+    "flag": "./flags/ge/ge.svg",
+    "info": {
+      "iso": "gel",
+      "numeric-code": 981,
+      "symbol": "./symbols/ge/ge-geo-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "₾"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "de",
+    "country-code": "deu",
+    "flag": "./flags/de/de.svg",
+    "info": {
+      "iso": "eur",
+      "numeric-code": 978,
+      "symbol": "./symbols/de/de-deu-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "€"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "gh",
+    "country-code": "gha",
+    "flag": "./flags/gh/gh.svg",
+    "info": {
+      "iso": "ghs",
+      "numeric-code": 936,
+      "symbol": "./symbols/gh/gh-gha-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "₵"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "gi",
+    "country-code": "gib",
+    "flag": "./flags/gi/gi.svg",
+    "info": {
+      "iso": "gip",
+      "numeric-code": 292,
+      "symbol": "./symbols/gi/gi-gib-filled-1.svg",
+      "currency-type": "LEGAL_TENDER"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "gr",
+    "country-code": "grc",
+    "flag": "./flags/gr/gr.svg",
+    "info": {
+      "iso": "eur",
+      "numeric-code": 978,
+      "symbol": "./symbols/gr/gr-grc-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "€"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "gl",
+    "country-code": "grl",
+    "flag": "./flags/gl/gl.svg",
+    "info": {
+      "iso": "dkk",
+      "numeric-code": 208,
+      "symbol": "./symbols/gl/gl-grl-filled-1.svg",
+      "currency-type": "LEGAL_TENDER"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "gd",
+    "country-code": "grd",
+    "flag": "./flags/gd/gd.svg",
+    "info": {
+      "iso": "xcd",
+      "numeric-code": 951,
+      "symbol": "./symbols/gd/gd-grd-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "EC$"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "gp",
+    "country-code": "glp",
+    "flag": "./flags/gp/gp.svg",
+    "info": {
+      "iso": "eur",
+      "numeric-code": 978,
+      "symbol": "./symbols/gp/gp-glp-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "€"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "gu",
+    "country-code": "gum",
+    "flag": "./flags/gu/gu.svg",
+    "info": {
+      "iso": "usd",
+      "numeric-code": 840,
+      "symbol": "./symbols/gu/gu-gum-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "$"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "gt",
+    "country-code": "gtm",
+    "flag": "./flags/gt/gt.svg",
+    "info": {
+      "iso": "gtq",
+      "numeric-code": 320,
+      "symbol": "./symbols/gt/gt-gtm-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "Q"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "gg",
+    "country-code": "ggy",
+    "flag": "./flags/gg/gg.svg",
+    "info": {
+      "iso": "gbp",
+      "numeric-code": 826,
+      "symbol": "./symbols/gg/gg-ggy-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "£"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "gq",
+    "country-code": "gnq",
+    "flag": "./flags/gq/gq.svg",
+    "info": {
+      "iso": "gnf",
+      "numeric-code": 324,
+      "symbol": "./symbols/gq/gq-gnq-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "₣"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 1
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "gw",
+    "country-code": "gnb",
+    "flag": "./flags/gw/gw.svg",
+    "info": {
+      "iso": "xof",
+      "numeric-code": 952,
+      "symbol": "./symbols/gw/gw-gnb-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "₣"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 1
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "gy",
+    "country-code": "guy",
+    "flag": "./flags/gy/gy.svg",
+    "info": {
+      "iso": "gyd",
+      "numeric-code": 328,
+      "symbol": "./symbols/gy/gy-guy-filled-1.svg",
+      "currency-type": "LEGAL_TENDER"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "ht",
+    "country-code": "hti",
+    "flag": "./flags/ht/ht.svg",
+    "info": {
+      "iso": "htg",
+      "numeric-code": 332,
+      "symbol": "./symbols/ht/ht-hti-filled-1.svg",
+      "currency-type": "LEGAL_TENDER"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "ht",
+    "country-code": "hti",
+    "flag": "./flags/ht/ht.svg",
+    "info": {
+      "iso": "usd",
+      "numeric-code": 840,
+      "symbol": "./symbols/ht/ht-hti-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "$"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "hm",
+    "country-code": "hmd",
+    "flag": "./flags/hm/hm.svg",
+    "info": {
+      "iso": "aud",
+      "numeric-code": 36,
+      "symbol": "./symbols/hm/hm-hmd-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "$"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "va",
+    "country-code": "vat",
+    "flag": "./flags/va/va.svg",
+    "info": {
+      "iso": "eur",
+      "numeric-code": 978,
+      "symbol": "./symbols/va/va-vat-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "€"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "hn",
+    "country-code": "hnd",
+    "flag": "./flags/hn/hn.svg",
+    "info": {
+      "iso": "hnl",
+      "numeric-code": 340,
+      "symbol": "./symbols/hn/hn-hnd-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "L"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "hk",
+    "country-code": "hkg",
+    "flag": "./flags/hk/hk.svg",
+    "info": {
+      "iso": "hkd",
+      "numeric-code": 344,
+      "symbol": "./symbols/hk/hk-hkg-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "$"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "hu",
+    "country-code": "hun",
+    "flag": "./flags/hu/hu.svg",
+    "info": {
+      "iso": "huf",
+      "numeric-code": 348,
+      "symbol": "./symbols/hu/hu-hun-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "Ft"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "is",
+    "country-code": "isl",
+    "flag": "./flags/is/is.svg",
+    "info": {
+      "iso": "isk",
+      "numeric-code": 352,
+      "symbol": "./symbols/is/is-isl-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "kr."
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 1
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "io",
+    "country-code": "iot",
+    "flag": "./flags/io/io.svg",
+    "info": {
+      "iso": "inr",
+      "numeric-code": 356,
+      "symbol": "./symbols/io/io-iot-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "₹"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "id",
+    "country-code": "idn",
+    "flag": "./flags/id/id.svg",
+    "info": {
+      "iso": "idr",
+      "numeric-code": 360,
+      "symbol": "./symbols/id/id-idn-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "Rp"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "xdr",
+    "country-code": "960",
+    "flag": "./flags/xdr/xdr.svg",
+    "info": {
+      "iso": "xdr",
+      "numeric-code": 960,
+      "symbol": "./symbols/xdr/xdr-960-filled-1.svg",
+      "currency-type": "LEGAL_TENDER"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": null
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "ir",
+    "country-code": "irn",
+    "flag": "./flags/ir/ir.svg",
+    "info": {
+      "iso": "irr",
+      "numeric-code": 364,
+      "symbol": "./symbols/ir/ir-irn-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "﷼"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "iq",
+    "country-code": "irq",
+    "flag": "./flags/iq/iq.svg",
+    "info": {
+      "iso": "iqd",
+      "numeric-code": 368,
+      "symbol": "./symbols/iq/iq-irq-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "د"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 1000
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "ie",
+    "country-code": "irl",
+    "flag": "./flags/ie/ie.svg",
+    "info": {
+      "iso": "eur",
+      "numeric-code": 978,
+      "symbol": "./symbols/ie/ie-irl-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "€"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "im",
+    "country-code": "imn",
+    "flag": "./flags/im/im.svg",
+    "info": {
+      "iso": "gbp",
+      "numeric-code": 826,
+      "symbol": "./symbols/im/im-imn-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "£"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "il",
+    "country-code": "isr",
+    "flag": "./flags/il/il.svg",
+    "info": {
+      "iso": "ils",
+      "numeric-code": 376,
+      "symbol": "./symbols/il/il-isr-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "₪"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "it",
+    "country-code": "ita",
+    "flag": "./flags/it/it.svg",
+    "info": {
+      "iso": "eur",
+      "numeric-code": 978,
+      "symbol": "./symbols/it/it-ita-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "€"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "jm",
+    "country-code": "jam",
+    "flag": "./flags/jm/jm.svg",
+    "info": {
+      "iso": "jmd",
+      "numeric-code": 388,
+      "symbol": "./symbols/jm/jm-jam-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "$"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "jp",
+    "country-code": "jpn",
+    "flag": "./flags/jp/jp.svg",
+    "info": {
+      "iso": "jpy",
+      "numeric-code": 392,
+      "symbol": "./symbols/jp/jp-jpn-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "￥"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 1
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "je",
+    "country-code": "jey",
+    "flag": "./flags/je/je.svg",
+    "info": {
+      "iso": "gbp",
+      "numeric-code": 826,
+      "symbol": "./symbols/je/je-jey-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "£"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "jo",
+    "country-code": "jor",
+    "flag": "./flags/jo/jo.svg",
+    "info": {
+      "iso": "jod",
+      "numeric-code": 400,
+      "symbol": "./symbols/jo/jo-jor-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "د.أ.‏"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 1000
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "kz",
+    "country-code": "kaz",
+    "flag": "./flags/kz/kz.svg",
+    "info": {
+      "iso": "kzt",
+      "numeric-code": 398,
+      "symbol": "./symbols/kz/kz-kaz-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "₸"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "ke",
+    "country-code": "ken",
+    "flag": "./flags/ke/ke.svg",
+    "info": {
+      "iso": "kes",
+      "numeric-code": 404,
+      "symbol": "./symbols/ke/ke-ken-filled-1.svg",
+      "currency-type": "LEGAL_TENDER"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "ki",
+    "country-code": "kir",
+    "flag": "./flags/ki/ki.svg",
+    "info": {
+      "iso": "aud",
+      "numeric-code": 36,
+      "symbol": "./symbols/ki/ki-kir-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "$"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "kp",
+    "country-code": "prk",
+    "flag": "./flags/kp/kp.svg",
+    "info": {
+      "iso": "kpw",
+      "numeric-code": 408,
+      "symbol": "./symbols/kp/kp-prk-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "₩"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "kr",
+    "country-code": "kor",
+    "flag": "./flags/kr/kr.svg",
+    "info": {
+      "iso": "krw",
+      "numeric-code": 410,
+      "symbol": "./symbols/kr/kr-kor-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "₩"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 1
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "kw",
+    "country-code": "kwt",
+    "flag": "./flags/kw/kw.svg",
+    "info": {
+      "iso": "kwd",
+      "numeric-code": 414,
+      "symbol": "./symbols/kw/kw-kwt-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "د.ك.‏"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 1000
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "kg",
+    "country-code": "kgz",
+    "flag": "./flags/kg/kg.svg",
+    "info": {
+      "iso": "kgs",
+      "numeric-code": 417,
+      "symbol": "./symbols/kg/kg-kgz-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "⃀"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "la",
+    "country-code": "lao",
+    "flag": "./flags/la/la.svg",
+    "info": {
+      "iso": "lak",
+      "numeric-code": 418,
+      "symbol": "./symbols/la/la-lao-filled-1.svg",
+      "currency-type": "LEGAL_TENDER"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "lv",
+    "country-code": "lva",
+    "flag": "./flags/lv/lv.svg",
+    "info": {
+      "iso": "eur",
+      "numeric-code": 978,
+      "symbol": "./symbols/lv/lv-lva-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "€"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "lb",
+    "country-code": "lbn",
+    "flag": "./flags/lb/lb.svg",
+    "info": {
+      "iso": "lbp",
+      "numeric-code": 422,
+      "symbol": "./symbols/lb/lb-lbn-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "ل.ل.‏"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "ls",
+    "country-code": "lso",
+    "flag": "./flags/ls/ls.svg",
+    "info": {
+      "iso": "lsl",
+      "numeric-code": 426,
+      "symbol": "./symbols/ls/ls-lso-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "L/M"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "ls",
+    "country-code": "lso",
+    "flag": "./flags/ls/ls.svg",
+    "info": {
+      "iso": "zar",
+      "numeric-code": 710,
+      "symbol": "./symbols/ls/ls-lso-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "R"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "lr",
+    "country-code": "lbr",
+    "flag": "./flags/lr/lr.svg",
+    "info": {
+      "iso": "lrd",
+      "numeric-code": 430,
+      "symbol": "./symbols/lr/lr-lbr-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "$"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "ly",
+    "country-code": "lby",
+    "flag": "./flags/ly/ly.svg",
+    "info": {
+      "iso": "lyd",
+      "numeric-code": 434,
+      "symbol": "./symbols/ly/ly-lby-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "د.ل.‏"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 1000
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "li",
+    "country-code": "lie",
+    "flag": "./flags/li/li.svg",
+    "info": {
+      "iso": "chf",
+      "numeric-code": 756,
+      "symbol": "./symbols/li/li-lie-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "₣"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "lt",
+    "country-code": "ltu",
+    "flag": "./flags/lt/lt.svg",
+    "info": {
+      "iso": "eur",
+      "numeric-code": 978,
+      "symbol": "./symbols/lt/lt-ltu-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "€"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "lu",
+    "country-code": "lux",
+    "flag": "./flags/lu/lu.svg",
+    "info": {
+      "iso": "eur",
+      "numeric-code": 978,
+      "symbol": "./symbols/lu/lu-lux-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "€"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "mo",
+    "country-code": "mac",
+    "flag": "./flags/mo/mo.svg",
+    "info": {
+      "iso": "mop",
+      "numeric-code": 446,
+      "symbol": "./symbols/mo/mo-mac-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "$"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "mk",
+    "country-code": "mkd",
+    "flag": "./flags/mk/mk.svg",
+    "info": {
+      "iso": "mkd",
+      "numeric-code": 807,
+      "symbol": "./symbols/mk/mk-mkd-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "Den"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "mg",
+    "country-code": "mdg",
+    "flag": "./flags/mg/mg.svg",
+    "info": {
+      "iso": "mga",
+      "numeric-code": 969,
+      "symbol": "./symbols/mg/mg-mdg-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "Ar"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "mw",
+    "country-code": "mwi",
+    "flag": "./flags/mw/mw.svg",
+    "info": {
+      "iso": "mwk",
+      "numeric-code": 454,
+      "symbol": "./symbols/mw/mw-mwi-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "Mk"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "my",
+    "country-code": "mys",
+    "flag": "./flags/my/my.svg",
+    "info": {
+      "iso": "myr",
+      "numeric-code": 458,
+      "symbol": "./symbols/my/my-mys-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "RM"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "mv",
+    "country-code": "mdv",
+    "flag": "./flags/mv/mv.svg",
+    "info": {
+      "iso": "mvr",
+      "numeric-code": 462,
+      "symbol": "./symbols/mv/mv-mdv-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "ރ"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "ml",
+    "country-code": "mli",
+    "flag": "./flags/ml/ml.svg",
+    "info": {
+      "iso": "xof",
+      "numeric-code": 952,
+      "symbol": "./symbols/ml/ml-mli-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "₣"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 1
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "mt",
+    "country-code": "mlt",
+    "flag": "./flags/mt/mt.svg",
+    "info": {
+      "iso": "eur",
+      "numeric-code": 978,
+      "symbol": "./symbols/mt/mt-mlt-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "€"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "mh",
+    "country-code": "mhl",
+    "flag": "./flags/mh/mh.svg",
+    "info": {
+      "iso": "usd",
+      "numeric-code": 840,
+      "symbol": "./symbols/mh/mh-mhl-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "$"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "mq",
+    "country-code": "mtq",
+    "flag": "./flags/mq/mq.svg",
+    "info": {
+      "iso": "eur",
+      "numeric-code": 978,
+      "symbol": "./symbols/mq/mq-mtq-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "€"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "mr",
+    "country-code": "mrt",
+    "flag": "./flags/mr/mr.svg",
+    "info": {
+      "iso": "mru",
+      "numeric-code": 929,
+      "symbol": "./symbols/mr/mr-mrt-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "UM"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "mu",
+    "country-code": "mus",
+    "flag": "./flags/mu/mu.svg",
+    "info": {
+      "iso": "mur",
+      "numeric-code": 480,
+      "symbol": "./symbols/mu/mu-mus-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "₨"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "yt",
+    "country-code": "myt",
+    "flag": "./flags/yt/yt.svg",
+    "info": {
+      "iso": "eur",
+      "numeric-code": 978,
+      "symbol": "./symbols/yt/yt-myt-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "€"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "xua",
+    "country-code": "965",
+    "flag": "./flags/xua/xua.svg",
+    "info": {
+      "iso": "xua",
+      "numeric-code": 965,
+      "symbol": "./symbols/xua/xua-965-filled-1.svg",
+      "currency-type": "LEGAL_TENDER"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": null
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "mx",
+    "country-code": "mex",
+    "flag": "./flags/mx/mx.svg",
+    "info": {
+      "iso": "mxn",
+      "numeric-code": 484,
+      "symbol": "./symbols/mx/mx-mex-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "$"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "mx",
+    "country-code": "mex",
+    "flag": "./flags/mx/mx.svg",
+    "info": {
+      "iso": "mxv",
+      "numeric-code": 979,
+      "symbol": "./symbols/mx/mx-mex-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "$"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "fm",
+    "country-code": "fsm",
+    "flag": "./flags/fm/fm.svg",
+    "info": {
+      "iso": "usd",
+      "numeric-code": 840,
+      "symbol": "./symbols/fm/fm-fsm-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "$"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "md",
+    "country-code": "mda",
+    "flag": "./flags/md/md.svg",
+    "info": {
+      "iso": "mdl",
+      "numeric-code": 498,
+      "symbol": "./symbols/md/md-mda-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "lei"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "mc",
+    "country-code": "mco",
+    "flag": "./flags/mc/mc.svg",
+    "info": {
+      "iso": "eur",
+      "numeric-code": 978,
+      "symbol": "./symbols/mc/mc-mco-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "€"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "mn",
+    "country-code": "mng",
+    "flag": "./flags/mn/mn.svg",
+    "info": {
+      "iso": "mnt",
+      "numeric-code": 496,
+      "symbol": "./symbols/mn/mn-mng-filled-1.svg",
+      "currency-type": "LEGAL_TENDER"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "me",
+    "country-code": "mne",
+    "flag": "./flags/me/me.svg",
+    "info": {
+      "iso": "eur",
+      "numeric-code": 978,
+      "symbol": "./symbols/me/me-mne-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "€"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "ms",
+    "country-code": "msr",
+    "flag": "./flags/ms/ms.svg",
+    "info": {
+      "iso": "xcd",
+      "numeric-code": 951,
+      "symbol": "./symbols/ms/ms-msr-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "EC$"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "ma",
+    "country-code": "mar",
+    "flag": "./flags/ma/ma.svg",
+    "info": {
+      "iso": "mad",
+      "numeric-code": 504,
+      "symbol": "./symbols/ma/ma-mar-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "د.م.‏"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "mz",
+    "country-code": "moz",
+    "flag": "./flags/mz/mz.svg",
+    "info": {
+      "iso": "mzn",
+      "numeric-code": 943,
+      "symbol": "./symbols/mz/mz-moz-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "MTn"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "mm",
+    "country-code": "mmr",
+    "flag": "./flags/mm/mm.svg",
+    "info": {
+      "iso": "mmk",
+      "numeric-code": 104,
+      "symbol": "./symbols/mm/mm-mmr-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "K/Ks"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "na",
+    "country-code": "nam",
+    "flag": "./flags/na/na.svg",
+    "info": {
+      "iso": "nad",
+      "numeric-code": 516,
+      "symbol": "./symbols/na/na-nam-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "$"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "na",
+    "country-code": "nam",
+    "flag": "./flags/na/na.svg",
+    "info": {
+      "iso": "zar",
+      "numeric-code": 710,
+      "symbol": "./symbols/na/na-nam-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "R"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "nr",
+    "country-code": "nru",
+    "flag": "./flags/nr/nr.svg",
+    "info": {
+      "iso": "aud",
+      "numeric-code": 36,
+      "symbol": "./symbols/nr/nr-nru-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "$"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "np",
+    "country-code": "npl",
+    "flag": "./flags/np/np.svg",
+    "info": {
+      "iso": "npr",
+      "numeric-code": 524,
+      "symbol": "./symbols/np/np-npl-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "₨"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "eur",
+    "country-code": "978",
+    "flag": "./flags/eur/eur.svg",
+    "info": {
+      "iso": "eur",
+      "numeric-code": 978,
+      "symbol": "./symbols/eur/eur-978-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "€"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "nc",
+    "country-code": "ncl",
+    "flag": "./flags/nc/nc.svg",
+    "info": {
+      "iso": "xpf",
+      "numeric-code": 953,
+      "symbol": "./symbols/nc/nc-ncl-filled-1.svg",
+      "currency-type": "LEGAL_TENDER"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 1
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "ck",
+    "country-code": "cok",
+    "flag": "./flags/ck/ck.svg",
+    "info": {
+      "iso": "nzd",
+      "numeric-code": 554,
+      "symbol": "./symbols/ck/ck-cok-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "$"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "ni",
+    "country-code": "nic",
+    "flag": "./flags/ni/ni.svg",
+    "info": {
+      "iso": "nio",
+      "numeric-code": 558,
+      "symbol": "./symbols/ni/ni-nic-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "$C"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "ne",
+    "country-code": "ner",
+    "flag": "./flags/ne/ne.svg",
+    "info": {
+      "iso": "xof",
+      "numeric-code": 952,
+      "symbol": "./symbols/ne/ne-ner-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "₣"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 1
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "ng",
+    "country-code": "nga",
+    "flag": "./flags/ng/ng.svg",
+    "info": {
+      "iso": "ngn",
+      "numeric-code": 566,
+      "symbol": "./symbols/ng/ng-nga-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "₦"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "nu",
+    "country-code": "niu",
+    "flag": "./flags/nu/nu.svg",
+    "info": {
+      "iso": "nzd",
+      "numeric-code": 554,
+      "symbol": "./symbols/nu/nu-niu-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "$"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "nf",
+    "country-code": "nfk",
+    "flag": "./flags/nf/nf.svg",
+    "info": {
+      "iso": "aud",
+      "numeric-code": 36,
+      "symbol": "./symbols/nf/nf-nfk-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "$"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "mp",
+    "country-code": "mnp",
+    "flag": "./flags/mp/mp.svg",
+    "info": {
+      "iso": "usd",
+      "numeric-code": 840,
+      "symbol": "./symbols/mp/mp-mnp-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "$"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "bv",
+    "country-code": "bvt",
+    "flag": "./flags/bv/bv.svg",
+    "info": {
+      "iso": "nok",
+      "numeric-code": 578,
+      "symbol": "./symbols/bv/bv-bvt-filled-1.svg",
+      "currency-type": "LEGAL_TENDER"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "om",
+    "country-code": "omn",
+    "flag": "./flags/om/om.svg",
+    "info": {
+      "iso": "omr",
+      "numeric-code": 512,
+      "symbol": "./symbols/om/om-omn-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "ر.ع.‏"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 1000
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "pk",
+    "country-code": "pak",
+    "flag": "./flags/pk/pk.svg",
+    "info": {
+      "iso": "pkr",
+      "numeric-code": 586,
+      "symbol": "./symbols/pk/pk-pak-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "₨"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "pw",
+    "country-code": "plw",
+    "flag": "./flags/pw/pw.svg",
+    "info": {
+      "iso": "usd",
+      "numeric-code": 840,
+      "symbol": "./symbols/pw/pw-plw-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "$"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "pa",
+    "country-code": "pan",
+    "flag": "./flags/pa/pa.svg",
+    "info": {
+      "iso": "pab",
+      "numeric-code": 590,
+      "symbol": "./symbols/pa/pa-pan-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "B"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "pa",
+    "country-code": "pan",
+    "flag": "./flags/pa/pa.svg",
+    "info": {
+      "iso": "usd",
+      "numeric-code": 840,
+      "symbol": "./symbols/pa/pa-pan-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "B"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "pg",
+    "country-code": "png",
+    "flag": "./flags/pg/pg.svg",
+    "info": {
+      "iso": "pgk",
+      "numeric-code": 598,
+      "symbol": "./symbols/pg/pg-png-filled-1.svg",
+      "currency-type": "LEGAL_TENDER"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "py",
+    "country-code": "pry",
+    "flag": "./flags/py/py.svg",
+    "info": {
+      "iso": "pyg",
+      "numeric-code": 600,
+      "symbol": "./symbols/py/py-pry-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "G"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 1
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "pe",
+    "country-code": "per",
+    "flag": "./flags/pe/pe.svg",
+    "info": {
+      "iso": "pen",
+      "numeric-code": 604,
+      "symbol": "./symbols/pe/pe-per-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "S/."
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "ph",
+    "country-code": "phl",
+    "flag": "./flags/ph/ph.svg",
+    "info": {
+      "iso": "php",
+      "numeric-code": 608,
+      "symbol": "./symbols/ph/ph-phl-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "₱"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "pn",
+    "country-code": "pcn",
+    "flag": "./flags/pn/pn.svg",
+    "info": {
+      "iso": "nzd",
+      "numeric-code": 554,
+      "symbol": "./symbols/pn/pn-pcn-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "$"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "pl",
+    "country-code": "pol",
+    "flag": "./flags/pl/pl.svg",
+    "info": {
+      "iso": "pln",
+      "numeric-code": 985,
+      "symbol": "./symbols/pl/pl-pol-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "zł"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "pt",
+    "country-code": "prt",
+    "flag": "./flags/pt/pt.svg",
+    "info": {
+      "iso": "eur",
+      "numeric-code": 978,
+      "symbol": "./symbols/pt/pt-prt-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "€"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "pr",
+    "country-code": "pri",
+    "flag": "./flags/pr/pr.svg",
+    "info": {
+      "iso": "usd",
+      "numeric-code": 840,
+      "symbol": "./symbols/pr/pr-pri-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "$"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "qa",
+    "country-code": "qat",
+    "flag": "./flags/qa/qa.svg",
+    "info": {
+      "iso": "qar",
+      "numeric-code": 634,
+      "symbol": "./symbols/qa/qa-qat-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "ر.ق.‏"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "re",
+    "country-code": "reu",
+    "flag": "./flags/re/re.svg",
+    "info": {
+      "iso": "eur",
+      "numeric-code": 978,
+      "symbol": "./symbols/re/re-reu-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "€"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "ro",
+    "country-code": "rou",
+    "flag": "./flags/ro/ro.svg",
+    "info": {
+      "iso": "ron",
+      "numeric-code": 946,
+      "symbol": "./symbols/ro/ro-rou-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "LEI"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "ru",
+    "country-code": "rus",
+    "flag": "./flags/ru/ru.svg",
+    "info": {
+      "iso": "rub",
+      "numeric-code": 643,
+      "symbol": "./symbols/ru/ru-rus-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "₽"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "rw",
+    "country-code": "rwa",
+    "flag": "./flags/rw/rw.svg",
+    "info": {
+      "iso": "rwf",
+      "numeric-code": 646,
+      "symbol": "./symbols/rw/rw-rwa-filled-1.svg",
+      "currency-type": "LEGAL_TENDER"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 1
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "bl",
+    "country-code": "blm",
+    "flag": "./flags/bl/bl.svg",
+    "info": {
+      "iso": "eur",
+      "numeric-code": 978,
+      "symbol": "./symbols/bl/bl-blm-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "€"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "sh",
+    "country-code": "shn",
+    "flag": "./flags/sh/sh.svg",
+    "info": {
+      "iso": "shp",
+      "numeric-code": 654,
+      "symbol": "./symbols/sh/sh-shn-filled-1.svg",
+      "currency-type": "LEGAL_TENDER"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "kn",
+    "country-code": "kna",
+    "flag": "./flags/kn/kn.svg",
+    "info": {
+      "iso": "xcd",
+      "numeric-code": 951,
+      "symbol": "./symbols/kn/kn-kna-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "EC$"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "lc",
+    "country-code": "lca",
+    "flag": "./flags/lc/lc.svg",
+    "info": {
+      "iso": "xcd",
+      "numeric-code": 951,
+      "symbol": "./symbols/lc/lc-lca-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "EC$"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "mf",
+    "country-code": "maf",
+    "flag": "./flags/mf/mf.svg",
+    "info": {
+      "iso": "eur",
+      "numeric-code": 978,
+      "symbol": "./symbols/mf/mf-maf-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "€"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "pm",
+    "country-code": "spm",
+    "flag": "./flags/pm/pm.svg",
+    "info": {
+      "iso": "eur",
+      "numeric-code": 978,
+      "symbol": "./symbols/pm/pm-spm-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "€"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "vc",
+    "country-code": "vct",
+    "flag": "./flags/vc/vc.svg",
+    "info": {
+      "iso": "xcd",
+      "numeric-code": 951,
+      "symbol": "./symbols/vc/vc-vct-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "EC$"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "as",
+    "country-code": "asm",
+    "flag": "./flags/as/as.svg",
+    "info": {
+      "iso": "wst",
+      "numeric-code": 882,
+      "symbol": "./symbols/as/as-asm-filled-1.svg",
+      "currency-type": "LEGAL_TENDER"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "sm",
+    "country-code": "smr",
+    "flag": "./flags/sm/sm.svg",
+    "info": {
+      "iso": "eur",
+      "numeric-code": 978,
+      "symbol": "./symbols/sm/sm-smr-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "€"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "st",
+    "country-code": "stp",
+    "flag": "./flags/st/st.svg",
+    "info": {
+      "iso": "stn",
+      "numeric-code": 930,
+      "symbol": "./symbols/st/st-stp-filled-1.svg",
+      "currency-type": "LEGAL_TENDER"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "sa",
+    "country-code": "sau",
+    "flag": "./flags/sa/sa.svg",
+    "info": {
+      "iso": "sar",
+      "numeric-code": 682,
+      "symbol": "./symbols/sa/sa-sau-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "ر"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "sn",
+    "country-code": "sen",
+    "flag": "./flags/sn/sn.svg",
+    "info": {
+      "iso": "xof",
+      "numeric-code": 952,
+      "symbol": "./symbols/sn/sn-sen-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "₣"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 1
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "rs",
+    "country-code": "srb",
+    "flag": "./flags/rs/rs.svg",
+    "info": {
+      "iso": "rsd",
+      "numeric-code": 941,
+      "symbol": "./symbols/rs/rs-srb-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "дин."
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "sc",
+    "country-code": "syc",
+    "flag": "./flags/sc/sc.svg",
+    "info": {
+      "iso": "scr",
+      "numeric-code": 690,
+      "symbol": "./symbols/sc/sc-syc-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "₨"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "sl",
+    "country-code": "sle",
+    "flag": "./flags/sl/sl.svg",
+    "info": {
+      "iso": "sll",
+      "numeric-code": 694,
+      "symbol": "./symbols/sl/sl-sle-filled-1.svg",
+      "currency-type": "LEGAL_TENDER"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "sl",
+    "country-code": "sle",
+    "flag": "./flags/sl/sl.svg",
+    "info": {
+      "iso": "sle",
+      "numeric-code": 925,
+      "symbol": "./symbols/sl/sl-sle-filled-1.svg",
+      "currency-type": "LEGAL_TENDER"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "sg",
+    "country-code": "sgp",
+    "flag": "./flags/sg/sg.svg",
+    "info": {
+      "iso": "sgd",
+      "numeric-code": 702,
+      "symbol": "./symbols/sg/sg-sgp-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "$"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "sx",
+    "country-code": "sxm",
+    "flag": "./flags/sx/sx.svg",
+    "info": {
+      "iso": "ang",
+      "numeric-code": 532,
+      "symbol": "./symbols/sx/sx-sxm-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "ƒ"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "xsu",
+    "country-code": "994",
+    "flag": "./flags/xsu/xsu.svg",
+    "info": {
+      "iso": "xsu",
+      "numeric-code": 994,
+      "symbol": "./symbols/xsu/xsu-994-filled-1.svg",
+      "currency-type": "LEGAL_TENDER"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": null
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "sk",
+    "country-code": "svk",
+    "flag": "./flags/sk/sk.svg",
+    "info": {
+      "iso": "eur",
+      "numeric-code": 978,
+      "symbol": "./symbols/sk/sk-svk-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "€"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "si",
+    "country-code": "svn",
+    "flag": "./flags/si/si.svg",
+    "info": {
+      "iso": "eur",
+      "numeric-code": 978,
+      "symbol": "./symbols/si/si-svn-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "€"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "sb",
+    "country-code": "slb",
+    "flag": "./flags/sb/sb.svg",
+    "info": {
+      "iso": "sbd",
+      "numeric-code": 90,
+      "symbol": "./symbols/sb/sb-slb-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "$"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "so",
+    "country-code": "som",
+    "flag": "./flags/so/so.svg",
+    "info": {
+      "iso": "sos",
+      "numeric-code": 706,
+      "symbol": "./symbols/so/so-som-filled-1.svg",
+      "currency-type": "LEGAL_TENDER"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "za",
+    "country-code": "zaf",
+    "flag": "./flags/za/za.svg",
+    "info": {
+      "iso": "zar",
+      "numeric-code": 710,
+      "symbol": "./symbols/za/za-zaf-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "R"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "ss",
+    "country-code": "ssd",
+    "flag": "./flags/ss/ss.svg",
+    "info": {
+      "iso": "ssp",
+      "numeric-code": 728,
+      "symbol": "./symbols/ss/ss-ssd-filled-1.svg",
+      "currency-type": "LEGAL_TENDER"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "es",
+    "country-code": "esp",
+    "flag": "./flags/es/es.svg",
+    "info": {
+      "iso": "eur",
+      "numeric-code": 978,
+      "symbol": "./symbols/es/es-esp-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "€"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "lk",
+    "country-code": "lka",
+    "flag": "./flags/lk/lk.svg",
+    "info": {
+      "iso": "lkr",
+      "numeric-code": 144,
+      "symbol": "./symbols/lk/lk-lka-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "₨"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "sd",
+    "country-code": "sdn",
+    "flag": "./flags/sd/sd.svg",
+    "info": {
+      "iso": "sdg",
+      "numeric-code": 938,
+      "symbol": "./symbols/sd/sd-sdn-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "ج.س.‏"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "sr",
+    "country-code": "sur",
+    "flag": "./flags/sr/sr.svg",
+    "info": {
+      "iso": "srd",
+      "numeric-code": 968,
+      "symbol": "./symbols/sr/sr-sur-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "$"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "sj",
+    "country-code": "sjm",
+    "flag": "./flags/sj/sj.svg",
+    "info": {
+      "iso": "nok",
+      "numeric-code": 578,
+      "symbol": "./symbols/sj/sj-sjm-filled-1.svg",
+      "currency-type": "LEGAL_TENDER"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "se",
+    "country-code": "swe",
+    "flag": "./flags/se/se.svg",
+    "info": {
+      "iso": "sek",
+      "numeric-code": 752,
+      "symbol": "./symbols/se/se-swe-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "kr"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "ch",
+    "country-code": "che",
+    "flag": "./flags/ch/ch.svg",
+    "info": {
+      "iso": "chf",
+      "numeric-code": 756,
+      "symbol": "./symbols/ch/ch-che-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "₣"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "ch",
+    "country-code": "che",
+    "flag": "./flags/ch/ch.svg",
+    "info": {
+      "iso": "che",
+      "numeric-code": 947,
+      "symbol": "./symbols/ch/ch-che-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "₨"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "ch",
+    "country-code": "che",
+    "flag": "./flags/ch/ch.svg",
+    "info": {
+      "iso": "chw",
+      "numeric-code": 948,
+      "symbol": "./symbols/ch/ch-che-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "SFr."
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "sy",
+    "country-code": "syr",
+    "flag": "./flags/sy/sy.svg",
+    "info": {
+      "iso": "syp",
+      "numeric-code": 760,
+      "symbol": "./symbols/sy/sy-syr-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "ل.س.‏"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "tw",
+    "country-code": "twn",
+    "flag": "./flags/tw/tw.svg",
+    "info": {
+      "iso": "twd",
+      "numeric-code": 901,
+      "symbol": "./symbols/tw/tw-twn-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "$"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "tj",
+    "country-code": "tjk",
+    "flag": "./flags/tj/tj.svg",
+    "info": {
+      "iso": "tjs",
+      "numeric-code": 972,
+      "symbol": "./symbols/tj/tj-tjk-filled-1.svg",
+      "currency-type": "LEGAL_TENDER"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "tz",
+    "country-code": "tza",
+    "flag": "./flags/tz/tz.svg",
+    "info": {
+      "iso": "tzs",
+      "numeric-code": 834,
+      "symbol": "./symbols/tz/tz-tza-filled-1.svg",
+      "currency-type": "LEGAL_TENDER"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "th",
+    "country-code": "tha",
+    "flag": "./flags/th/th.svg",
+    "info": {
+      "iso": "thb",
+      "numeric-code": 764,
+      "symbol": "./symbols/th/th-tha-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "฿"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "tl",
+    "country-code": "tls",
+    "flag": "./flags/tl/tl.svg",
+    "info": {
+      "iso": "usd",
+      "numeric-code": 840,
+      "symbol": "./symbols/tl/tl-tls-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "$"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "tg",
+    "country-code": "tgo",
+    "flag": "./flags/tg/tg.svg",
+    "info": {
+      "iso": "xof",
+      "numeric-code": 952,
+      "symbol": "./symbols/tg/tg-tgo-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "₣"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 1
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "tk",
+    "country-code": "tkl",
+    "flag": "./flags/tk/tk.svg",
+    "info": {
+      "iso": "nzd",
+      "numeric-code": 554,
+      "symbol": "./symbols/tk/tk-tkl-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "$"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "to",
+    "country-code": "ton",
+    "flag": "./flags/to/to.svg",
+    "info": {
+      "iso": "top",
+      "numeric-code": 776,
+      "symbol": "./symbols/to/to-ton-filled-1.svg",
+      "currency-type": "LEGAL_TENDER"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "tt",
+    "country-code": "tto",
+    "flag": "./flags/tt/tt.svg",
+    "info": {
+      "iso": "ttd",
+      "numeric-code": 780,
+      "symbol": "./symbols/tt/tt-tto-filled-1.svg",
+      "currency-type": "LEGAL_TENDER"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "tn",
+    "country-code": "tun",
+    "flag": "./flags/tn/tn.svg",
+    "info": {
+      "iso": "tnd",
+      "numeric-code": 788,
+      "symbol": "./symbols/tn/tn-tun-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "د.ت.‏"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 1000
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "tr",
+    "country-code": "tur",
+    "flag": "./flags/tr/tr.svg",
+    "info": {
+      "iso": "try",
+      "numeric-code": 949,
+      "symbol": "./symbols/tr/tr-tur-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "₺"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "tm",
+    "country-code": "tkm",
+    "flag": "./flags/tm/tm.svg",
+    "info": {
+      "iso": "tmt",
+      "numeric-code": 934,
+      "symbol": "./symbols/tm/tm-tkm-filled-1.svg",
+      "currency-type": "LEGAL_TENDER"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "tc",
+    "country-code": "tca",
+    "flag": "./flags/tc/tc.svg",
+    "info": {
+      "iso": "usd",
+      "numeric-code": 840,
+      "symbol": "./symbols/tc/tc-tca-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "$"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "tv",
+    "country-code": "tuv",
+    "flag": "./flags/tv/tv.svg",
+    "info": {
+      "iso": "aud",
+      "numeric-code": 36,
+      "symbol": "./symbols/tv/tv-tuv-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "$"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "ug",
+    "country-code": "uga",
+    "flag": "./flags/ug/ug.svg",
+    "info": {
+      "iso": "ugx",
+      "numeric-code": 800,
+      "symbol": "./symbols/ug/ug-uga-filled-1.svg",
+      "currency-type": "LEGAL_TENDER"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 1
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "ua",
+    "country-code": "ukr",
+    "flag": "./flags/ua/ua.svg",
+    "info": {
+      "iso": "uah",
+      "numeric-code": 980,
+      "symbol": "./symbols/ua/ua-ukr-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "₴"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "ae",
+    "country-code": "are",
+    "flag": "./flags/ae/ae.svg",
+    "info": {
+      "iso": "aed",
+      "numeric-code": 784,
+      "symbol": "./symbols/ae/ae-are-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "د.إ.‏"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "gb",
+    "country-code": "gbr",
+    "flag": "./flags/gb/gb.svg",
+    "info": {
+      "iso": "gbp",
+      "numeric-code": 826,
+      "symbol": "./symbols/gb/gb-gbr-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "£"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "um",
+    "country-code": "umi",
+    "flag": "./flags/um/um.svg",
+    "info": {
+      "iso": "usd",
+      "numeric-code": 840,
+      "symbol": "./symbols/um/um-umi-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "$"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "us",
+    "country-code": "usa",
+    "flag": "./flags/us/us.svg",
+    "info": {
+      "iso": "usd",
+      "numeric-code": 840,
+      "symbol": "./symbols/us/us-usa-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "$"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "us",
+    "country-code": "usa",
+    "flag": "./flags/us/us.svg",
+    "info": {
+      "iso": "usn",
+      "numeric-code": 997,
+      "symbol": "./symbols/us/us-usa-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "$"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "uy",
+    "country-code": "ury",
+    "flag": "./flags/uy/uy.svg",
+    "info": {
+      "iso": "uyu",
+      "numeric-code": 858,
+      "symbol": "./symbols/uy/uy-ury-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "NU$"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "uy",
+    "country-code": "ury",
+    "flag": "./flags/uy/uy.svg",
+    "info": {
+      "iso": "uyi",
+      "numeric-code": 940,
+      "symbol": "./symbols/uy/uy-ury-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "NU$"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 1
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "uy",
+    "country-code": "ury",
+    "flag": "./flags/uy/uy.svg",
+    "info": {
+      "iso": "uyw",
+      "numeric-code": 927,
+      "symbol": "./symbols/uy/uy-ury-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "NU$"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 10000
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "uz",
+    "country-code": "uzb",
+    "flag": "./flags/uz/uz.svg",
+    "info": {
+      "iso": "uzs",
+      "numeric-code": 860,
+      "symbol": "./symbols/uz/uz-uzb-filled-1.svg",
+      "currency-type": "LEGAL_TENDER"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "vu",
+    "country-code": "vut",
+    "flag": "./flags/vu/vu.svg",
+    "info": {
+      "iso": "vuv",
+      "numeric-code": 548,
+      "symbol": "./symbols/vu/vu-vut-filled-1.svg",
+      "currency-type": "LEGAL_TENDER"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 1
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "ve",
+    "country-code": "ven",
+    "flag": "./flags/ve/ve.svg",
+    "info": {
+      "iso": "ves",
+      "numeric-code": 928,
+      "symbol": "./symbols/ve/ve-ven-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "Bs.S."
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "ve",
+    "country-code": "ven",
+    "flag": "./flags/ve/ve.svg",
+    "info": {
+      "iso": "ved",
+      "numeric-code": 926,
+      "symbol": "./symbols/ve/ve-ven-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "Bs.S."
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "vn",
+    "country-code": "vnm",
+    "flag": "./flags/vn/vn.svg",
+    "info": {
+      "iso": "vnd",
+      "numeric-code": 704,
+      "symbol": "./symbols/vn/vn-vnm-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "đ"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 1
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "vg",
+    "country-code": "vgb",
+    "flag": "./flags/vg/vg.svg",
+    "info": {
+      "iso": "usd",
+      "numeric-code": 840,
+      "symbol": "./symbols/vg/vg-vgb-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "$"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "vi",
+    "country-code": "vir",
+    "flag": "./flags/vi/vi.svg",
+    "info": {
+      "iso": "usd",
+      "numeric-code": 840,
+      "symbol": "./symbols/vi/vi-vir-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "$"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "wf",
+    "country-code": "wlf",
+    "flag": "./flags/wf/wf.svg",
+    "info": {
+      "iso": "xpf",
+      "numeric-code": 953,
+      "symbol": "./symbols/wf/wf-wlf-filled-1.svg",
+      "currency-type": "LEGAL_TENDER"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 1
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "eh",
+    "country-code": "esh",
+    "flag": "./flags/eh/eh.svg",
+    "info": {
+      "iso": "mad",
+      "numeric-code": 504,
+      "symbol": "./symbols/eh/eh-esh-filled-1.svg",
+      "currency-type": "LEGAL_TENDER"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "ye",
+    "country-code": "yem",
+    "flag": "./flags/ye/ye.svg",
+    "info": {
+      "iso": "yer",
+      "numeric-code": 886,
+      "symbol": "./symbols/ye/ye-yem-filled-1.svg",
+      "currency-type": "LEGAL_TENDER",
+      "unicode": "ي"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "zm",
+    "country-code": "zmb",
+    "flag": "./flags/zm/zm.svg",
+    "info": {
+      "iso": "zmw",
+      "numeric-code": 967,
+      "symbol": "./symbols/zm/zm-zmb-filled-1.svg",
+      "currency-type": "LEGAL_TENDER"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "zw",
+    "country-code": "zwe",
+    "flag": "./flags/zw/zw.svg",
+    "info": {
+      "iso": "zwl",
+      "numeric-code": 932,
+      "symbol": "./symbols/zw/zw-zwe-filled-1.svg",
+      "currency-type": "LEGAL_TENDER"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": 100
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "xba",
+    "country-code": "955",
+    "flag": "./flags/xba/xba.svg",
+    "info": {
+      "iso": "xba",
+      "numeric-code": 955,
+      "symbol": "./symbols/xba/xba-955-filled-1.svg",
+      "currency-type": "LEGAL_TENDER"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": null
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "xbb",
+    "country-code": "956",
+    "flag": "./flags/xbb/xbb.svg",
+    "info": {
+      "iso": "xbb",
+      "numeric-code": 956,
+      "symbol": "./symbols/xbb/xbb-956-filled-1.svg",
+      "currency-type": "LEGAL_TENDER"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": null
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "xbc",
+    "country-code": "957",
+    "flag": "./flags/xbc/xbc.svg",
+    "info": {
+      "iso": "xbc",
+      "numeric-code": 957,
+      "symbol": "./symbols/xbc/xbc-957-filled-1.svg",
+      "currency-type": "LEGAL_TENDER"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": null
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "xbd",
+    "country-code": "958",
+    "flag": "./flags/xbd/xbd.svg",
+    "info": {
+      "iso": "xbd",
+      "numeric-code": 958,
+      "symbol": "./symbols/xbd/xbd-958-filled-1.svg",
+      "currency-type": "LEGAL_TENDER"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": null
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "xts",
+    "country-code": "963",
+    "flag": "./flags/xts/xts.svg",
+    "info": {
+      "iso": "xts",
+      "numeric-code": 963,
+      "symbol": "./symbols/xts/xts-963-filled-1.svg",
+      "currency-type": "LEGAL_TENDER"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": null
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "xxx",
+    "country-code": "999",
+    "flag": "./flags/xxx/xxx.svg",
+    "info": {
+      "iso": "xxx",
+      "numeric-code": 999,
+      "symbol": "./symbols/xxx/xxx-999-filled-1.svg",
+      "currency-type": "LEGAL_TENDER"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": null
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "xau",
+    "country-code": "959",
+    "flag": "./flags/xau/xau.svg",
+    "info": {
+      "iso": "xau",
+      "numeric-code": 959,
+      "symbol": "./symbols/xau/xau-959-filled-1.svg",
+      "currency-type": "LEGAL_TENDER"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": null
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "xpd",
+    "country-code": "964",
+    "flag": "./flags/xpd/xpd.svg",
+    "info": {
+      "iso": "xpd",
+      "numeric-code": 964,
+      "symbol": "./symbols/xpd/xpd-964-filled-1.svg",
+      "currency-type": "LEGAL_TENDER"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": null
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "xpt",
+    "country-code": "962",
+    "flag": "./flags/xpt/xpt.svg",
+    "info": {
+      "iso": "xpt",
+      "numeric-code": 962,
+      "symbol": "./symbols/xpt/xpt-962-filled-1.svg",
+      "currency-type": "LEGAL_TENDER"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": null
+      }
+    ],
+    "peg-info": []
+  },
+  {
+    "country": "xag",
+    "country-code": "961",
+    "flag": "./flags/xag/xag.svg",
+    "info": {
+      "iso": "xag",
+      "numeric-code": 961,
+      "symbol": "./symbols/xag/xag-961-filled-1.svg",
+      "currency-type": "LEGAL_TENDER"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "to": null
+    },
+    "secondary-unit-info": [
+      {
+        "rate": null
+      }
+    ],
+    "peg-info": []
+  }
+]

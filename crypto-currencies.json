@@ -1,0 +1,470 @@
+[
+  {
+    "info": {
+      "codes": ["BTC", "XBT", "₿"],
+      "symbol": "./symbols/BTC-2009.svg",
+      "creator": "Satoshi Nakamoto",
+      "unicode": "₿",
+      "name": "Bitcoin",
+      "desc": "The first and most widely used decentralized ledger currency,"
+    },
+    "life-span": {
+      "created-at": "2009"
+    }
+  },
+  {
+    "info": {
+      "codes": ["LTC", "Ł"],
+      "symbol": "./symbols/LTC-2011.svg",
+      "creator": "Charlie Lee",
+      "unicode": "Ł",
+      "name": "Litecoin",
+      "desc": "One of the first cryptocurrencies to use scrypt as a hashing algorithm."
+    },
+    "life-span": {
+      "created-at": "2011"
+    }
+  },
+  {
+    "info": {
+      "codes": ["NMC"],
+      "symbol": "./symbols/NMC-2011.svg",
+      "creator": "Vincent Durham",
+      "unicode": "ℕ",
+      "name": "Namecoin",
+      "desc": "Also acts as an alternative, decentralized DNS."
+    },
+    "life-span": {
+      "created-at": "2011"
+    }
+  },
+  {
+    "info": {
+      "codes": ["PPC"],
+      "symbol": "./symbols/PPC-2012.svg",
+      "creator": "Sunny King(pseudonym)",
+      "unicode": "Ᵽ",
+      "name": "Peercoin",
+      "desc": "The first cryptocurrency to use both PoW and PoS functions."
+    },
+    "life-span": {
+      "created-at": "2012"
+    }
+  },
+  {
+    "info": {
+      "codes": ["DOGE", "XDG", "Ð"],
+      "symbol": "./symbols/DOGE-2013.svg",
+      "creator": "Jackson Palmer& Billy Markus",
+      "unicode": "Ð",
+      "name": "Dogecoin",
+      "desc": "Based on the Doge internet meme."
+    },
+    "life-span": {
+      "created-at": "2013"
+    }
+  },
+  {
+    "info": {
+      "codes": ["GRC"],
+      "symbol": "./symbols/GRC-2013.svg",
+      "creator": "Rob Hälford",
+      "unicode": "GRC",
+      "name": "Gridcoin",
+      "desc": "Linked to citizen science through the Berkeley Open Infrastructure for Network Computing"
+    },
+    "life-span": {
+      "created-at": "2013"
+    }
+  },
+  {
+    "info": {
+      "codes": ["XPM"],
+      "symbol": "./symbols/XPM-2013.svg",
+      "creator": "Sunny King(pseudonym)",
+      "unicode": "Ψ",
+      "name": "Primecoin",
+      "desc": "Uses the finding of prime chains composed of Cunningham chains and bi-twin chains for proof-of-work."
+    },
+    "life-span": {
+      "created-at": "2013"
+    }
+  },
+  {
+    "info": {
+      "codes": ["XRP"],
+      "symbol": "./symbols/XRP-2013.svg",
+      "creator": "Chris Larsen &Jed McCaleb",
+      "unicode": "XRP",
+      "name": "Ripple",
+      "desc": "Designed for peer-to-peer debt transfer. Not based on bitcoin."
+    },
+    "life-span": {
+      "created-at": "2013"
+    }
+  },
+  {
+    "info": {
+      "codes": ["NXT"],
+      "symbol": "./symbols/NXT-2013.svg",
+      "creator": "BCNext(pseudonym)",
+      "unicode": "NXT",
+      "name": "Nxt",
+      "desc": "Specifically designed as a flexible platform to build applications and financial services around its protocol."
+    },
+    "life-span": {
+      "created-at": "2013"
+    }
+  },
+  {
+    "info": {
+      "codes": ["AUR"],
+      "symbol": "./symbols/AUR-2014.svg",
+      "creator": "Baldur Odinsson(pseudonym)",
+      "unicode": "AUR",
+      "name": "Auroracoin",
+      "desc": "Created as an alternative currency for Iceland, intended to replace the Icelandic króna."
+    },
+    "life-span": {
+      "created-at": "2014"
+    }
+  },
+  {
+    "info": {
+      "codes": ["DASH"],
+      "symbol": "./symbols/DASH-2014.svg",
+      "creator": "Evan Duffield &Kyle Hagan",
+      "unicode": "DASH",
+      "name": "Dash",
+      "desc": "A bitcoin-based currency featuring instant transactions, decentralized governance and budgeting, and private transactions."
+    },
+    "life-span": {
+      "created-at": "2014"
+    }
+  },
+  {
+    "info": {
+      "codes": ["NEO"],
+      "symbol": "./symbols/NEO-2014.svg",
+      "creator": "Da Hongfei & Erik Zhang",
+      "unicode": "NEO",
+      "name": "NEO",
+      "desc": "China based cryptocurrency, formerly ANT Shares and ANT Coins. The names were changed in 2017 to NEO and GAS."
+    },
+    "life-span": {
+      "created-at": "2014"
+    }
+  },
+  {
+    "info": {
+      "codes": ["MZC"],
+      "symbol": "./symbols/MZC-2014.svg",
+      "creator": "BTC Oyate Initiative",
+      "unicode": "MZC",
+      "name": "MazaCoin",
+      "desc": "The underlying software is derived from that of another cryptocurrency, ZetaCoin."
+    },
+    "life-span": {
+      "created-at": "2014"
+    }
+  },
+  {
+    "info": {
+      "codes": ["XMR"],
+      "symbol": "./symbols/XMR-2014.svg",
+      "creator": "Monero Core Team",
+      "unicode": "ɱ",
+      "name": "Monero",
+      "desc": "Privacy-centric coin based on the CryptoNote protocol with improvements for scalability and decentralization."
+    },
+    "life-span": {
+      "created-at": "2014"
+    }
+  },
+  {
+    "info": {
+      "codes": ["TIT"],
+      "symbol": "./symbols/TIT-2014.svg",
+      "creator": "Edward Mansfield & Richard Allen",
+      "unicode": "TIT",
+      "name": "Titcoin",
+      "desc": "The first cryptocurrency to be nominated for a major adult industry award."
+    },
+    "life-span": {
+      "created-at": "2014"
+    }
+  },
+  {
+    "info": {
+      "codes": ["XVG"],
+      "symbol": "./symbols/XVG-2014.svg",
+      "creator": "Sunerok",
+      "unicode": "XVG",
+      "name": "Verge",
+      "desc": "Features anonymous transactions using Tor."
+    },
+    "life-span": {
+      "created-at": "2014"
+    }
+  },
+  {
+    "info": {
+      "codes": ["XLM"],
+      "symbol": "./symbols/XLM-2014.svg",
+      "creator": "Jed McCaleb",
+      "unicode": "🚀",
+      "name": "Stellar",
+      "desc": "Open-source, decentralized global financial network."
+    },
+    "life-span": {
+      "created-at": "2014"
+    }
+  },
+  {
+    "info": {
+      "codes": ["VTC"],
+      "symbol": "./symbols/VTC-2014.svg",
+      "creator": "David Muller",
+      "unicode": "VTC",
+      "name": "Vertcoin",
+      "desc": "Aims to be ASIC resistant."
+    },
+    "life-span": {
+      "created-at": "2014"
+    }
+  },
+  {
+    "info": {
+      "codes": ["ETH", "Ξ"],
+      "symbol": "./symbols/ETH-2015.svg",
+      "creator": "Vitalik Buterin",
+      "unicode": "Ξ",
+      "name": "Ethereum",
+      "desc": "Supports Turing-complete smart contracts."
+    },
+    "life-span": {
+      "created-at": "2015"
+    }
+  },
+  {
+    "info": {
+      "codes": ["ETC"],
+      "symbol": "./symbols/ETC-2015.svg",
+      "creator": "ξ",
+      "unicode": "ETC",
+      "name": "Ethereum Classic",
+      "desc": "An alternative version of Ethereum Supports Turing-complete smart contracts."
+    },
+    "life-span": {
+      "created-at": "2015"
+    }
+  },
+  {
+    "info": {
+      "codes": ["XNO", "Ӿ"],
+      "symbol": "./symbols/XNO-2015.svg",
+      "creator": "Colin LeMahieu",
+      "unicode": "Ӿ",
+      "name": "Nano",
+      "desc": "Decentralized, feeless, open-source, peer-to-peer cryptocurrency. First to use a Block Lattice structure."
+    },
+    "life-span": {
+      "created-at": "2015"
+    }
+  },
+  {
+    "info": {
+      "codes": ["USDT"],
+      "symbol": "./symbols/USDT-2015.svg",
+      "creator": "Jan Ludovicus van der Velde",
+      "unicode": "₮",
+      "name": "Tether",
+      "desc": "Tether claims to be backed by USD at a 1 to 1 ratio. The company has been unable to produce promised audits."
+    },
+    "life-span": {
+      "created-at": "2015"
+    }
+  },
+  {
+    "info": {
+      "codes": ["FIRO"],
+      "symbol": "./symbols/FIRO-2016.svg",
+      "creator": "Poramin Insom",
+      "unicode": "FIRO",
+      "name": "Firo",
+      "desc": "The first financial system employing Zero-knowledge proof to protect users' privacy."
+    },
+    "life-span": {
+      "created-at": "2016"
+    }
+  },
+  {
+    "info": {
+      "codes": ["ZEC"],
+      "symbol": "./symbols/ZEC-2016.svg",
+      "creator": "Zooko Wilcox",
+      "unicode": "ⓩ",
+      "name": "Zcash",
+      "desc": "The first open, permissionless financial system employing zero-knowledge security."
+    },
+    "life-span": {
+      "created-at": "2016"
+    }
+  },
+  {
+    "info": {
+      "codes": ["BCH"],
+      "symbol": "./symbols/BCH-2017.svg",
+      "creator": "",
+      "unicode": "Ƀ",
+      "name": "Bitcoin Cash",
+      "desc": "Hard fork from bitcoin, increased maximum block size from 1MB to 8MB (as of 2018, 32MB)"
+    },
+    "life-span": {
+      "created-at": "2017"
+    }
+  },
+  {
+    "info": {
+      "codes": ["EOS"],
+      "symbol": "./symbols/EOS-2017.svg",
+      "creator": "Dan Larimer",
+      "unicode": "ε",
+      "name": "EOS.IO",
+      "desc": "Feeless Smart contract platform for decentralized applications and decentralized autonomous corporations with a block time of 500 ms."
+    },
+    "life-span": {
+      "created-at": "2017"
+    }
+  },
+  {
+    "info": {
+      "codes": ["ADA", "₳"],
+      "symbol": "./symbols/ADA-2017.svg",
+      "creator": "Charles Hoskinson",
+      "unicode": "₳",
+      "name": "Cardano",
+      "desc": "A proof-of-stake blockchain platform: developed through evidence-based methods and peer-reviewed research."
+    },
+    "life-span": {
+      "created-at": "2017"
+    }
+  },
+  {
+    "info": {
+      "codes": ["TRX"],
+      "symbol": "./symbols/TRX-2017.svg",
+      "creator": "Justin Sun",
+      "unicode": "TRX",
+      "name": "TRON",
+      "desc": ""
+    },
+    "life-span": {
+      "created-at": "2017"
+    }
+  },
+  {
+    "info": {
+      "codes": [""],
+      "symbol": "./symbols/-2018.svg",
+      "creator": "",
+      "unicode": "",
+      "name": "AmbaCoin",
+      "desc": "official cryptocurrency of the Cameroonian separatist entity of Ambazonia"
+    },
+    "life-span": {
+      "created-at": "2018"
+    }
+  },
+  {
+    "info": {
+      "codes": ["CKB"],
+      "symbol": "./symbols/CKB-2018.svg",
+      "creator": "Kevin Wang, Daniel Lv, Terry Tai",
+      "unicode": "CKB",
+      "name": "Nervos Network",
+      "desc": "Multi-layered blockchain smart contract platform"
+    },
+    "life-span": {
+      "created-at": "2018"
+    }
+  },
+  {
+    "info": {
+      "codes": ["ALGO"],
+      "symbol": "./symbols/ALGO-2019.svg",
+      "creator": "Silvio Micali",
+      "unicode": "ALGO",
+      "name": "Algorand",
+      "desc": "Uses a verifiable random function to randomly select groups of users to certify blocks."
+    },
+    "life-span": {
+      "created-at": "2019"
+    }
+  },
+  {
+    "info": {
+      "codes": ["AVAX"],
+      "symbol": "./symbols/AVAX-2020.svg",
+      "creator": "Emin Gün Sirer, Kevin Sekniqi, Maofan \"Ted\" Yin",
+      "unicode": "AVAX",
+      "name": "Avalanche",
+      "desc": ""
+    },
+    "life-span": {
+      "created-at": "2020"
+    }
+  },
+  {
+    "info": {
+      "codes": ["SHIB"],
+      "symbol": "./symbols/SHIB-2020.svg",
+      "creator": "Ryoshi",
+      "unicode": "SHIB",
+      "name": "Shiba Inu",
+      "desc": ""
+    },
+    "life-span": {
+      "created-at": "2020"
+    }
+  },
+  {
+    "info": {
+      "codes": ["DOT"],
+      "symbol": "./symbols/DOT-2020.svg",
+      "creator": "Gavin Wood",
+      "unicode": "DOT",
+      "name": "Polkadot",
+      "desc": ""
+    },
+    "life-span": {
+      "created-at": "2020"
+    }
+  },
+  {
+    "info": {
+      "codes": ["DESO"],
+      "symbol": "./symbols/DESO-2021.svg",
+      "creator": "Nader al-Naji (aka diamondhands)",
+      "unicode": "DESO",
+      "name": "DeSo",
+      "desc": "Also a social media platform, resembling Twitter."
+    },
+    "life-span": {
+      "created-at": "2021"
+    }
+  },
+  {
+    "info": {
+      "codes": ["SAFEMOON"],
+      "symbol": "./symbols/SAFEMOON-2021.svg",
+      "creator": "SafeMoon LLC",
+      "unicode": "SAFEMOON",
+      "name": "SafeMoon",
+      "desc": ""
+    },
+    "life-span": {
+      "created-at": "2021"
+    }
+  }
+]

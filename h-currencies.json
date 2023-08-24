@@ -1,0 +1,2423 @@
+[
+  {
+    "info": {
+      "iso": "adp",
+      "iso-num": 20,
+      "symbol": "./h-symbol/adp-20.svg",
+      "name": "andorran peseta"
+    },
+    "secondary-unit-info": {
+      "rate": null
+    },
+    "life-span": {
+      "created": "1869",
+      "deprecated": "1999-01-01",
+      "replaced-by": [
+        "eur"
+      ]
+    }
+  },
+  {
+    "info": {
+      "non-standard-iso": "adp",
+      "iso-num": null,
+      "symbol": "./h-symbol/adp-NaN.svg",
+      "name": "andorran franc"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": "1999-01-01",
+      "replaced-by": [
+        "eur"
+      ]
+    }
+  },
+  {
+    "info": {
+      "iso": "afa",
+      "iso-num": 4,
+      "symbol": "./h-symbol/afa-4.svg",
+      "name": "afghan afghani"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "life-span": {
+      "created": "1925",
+      "deprecated": "2003",
+      "replaced-by": [
+        "afn"
+      ]
+    }
+  },
+  {
+    "info": {
+      "iso": "alk",
+      "iso-num": 8,
+      "symbol": "./h-symbol/alk-8.svg",
+      "name": "old albanian lek"
+    },
+    "secondary-unit-info": {
+      "rate": null
+    },
+    "life-span": {
+      "created": "1946",
+      "deprecated": "1965",
+      "replaced-by": []
+    }
+  },
+  {
+    "info": {
+      "iso": "aok",
+      "iso-num": 24,
+      "symbol": "./h-symbol/aok-24.svg",
+      "name": "angolan kwanza"
+    },
+    "secondary-unit-info": {
+      "rate": null
+    },
+    "life-span": {
+      "created": "1977-01-08",
+      "deprecated": "1990-09-24",
+      "replaced-by": [
+        "aon",
+        "aoa"
+      ]
+    }
+  },
+  {
+    "info": {
+      "iso": "aon",
+      "iso-num": 24,
+      "symbol": "./h-symbol/aon-24.svg",
+      "name": "angolan novo kwanza"
+    },
+    "secondary-unit-info": {
+      "rate": null
+    },
+    "life-span": {
+      "created": "1990-09-25",
+      "deprecated": "1995-06-30",
+      "replaced-by": [
+        "aor",
+        "aoa"
+      ]
+    }
+  },
+  {
+    "info": {
+      "iso": "aor",
+      "iso-num": 982,
+      "symbol": "./h-symbol/aor-982.svg",
+      "name": "angolan kwanza reajustado"
+    },
+    "secondary-unit-info": {
+      "rate": null
+    },
+    "life-span": {
+      "created": "1995-07-01",
+      "deprecated": "1999-11-30",
+      "replaced-by": [
+        "aoa"
+      ]
+    }
+  },
+  {
+    "info": {
+      "iso": "ara",
+      "iso-num": 32,
+      "symbol": "./h-symbol/ara-32.svg",
+      "name": "argentine austral"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "life-span": {
+      "created": "1985-06-15",
+      "deprecated": "1991-12-31",
+      "replaced-by": [
+        "ars"
+      ]
+    }
+  },
+  {
+    "info": {
+      "non-standard-iso": "ary",
+      "iso-num": null,
+      "symbol": "./h-symbol/ary-NaN.svg",
+      "name": "argentine peso ley"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "life-span": {
+      "created": "1970-01",
+      "deprecated": "1983-05",
+      "replaced-by": [
+        "arp"
+      ]
+    }
+  },
+  {
+    "info": {
+      "iso": "arp",
+      "iso-num": 32,
+      "symbol": "./h-symbol/arp-32.svg",
+      "name": "argentine peso argentino"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "life-span": {
+      "created": "1983-06-06",
+      "deprecated": "1985-06-14",
+      "replaced-by": [
+        "ara",
+        "ars"
+      ]
+    }
+  },
+  {
+    "info": {
+      "iso": "ary",
+      "iso-num": 32,
+      "symbol": "./h-symbol/ary-32.svg",
+      "name": "argentine peso ley"
+    },
+    "secondary-unit-info": {
+      "rate": null
+    },
+    "life-span": {
+      "created": "january 1970",
+      "deprecated": "1983-06-06",
+      "replaced-by": [
+        "arp",
+        "ars"
+      ]
+    }
+  },
+  {
+    "info": {
+      "iso": "ats",
+      "iso-num": 40,
+      "symbol": "./h-symbol/ats-40.svg",
+      "name": "austrian schilling"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "life-span": {
+      "created": "1945",
+      "deprecated": "1999-01-01",
+      "replaced-by": [
+        "eur"
+      ]
+    }
+  },
+  {
+    "info": {
+      "iso": "aym",
+      "iso-num": 945,
+      "symbol": "./h-symbol/aym-945.svg",
+      "name": "azerbaijani manat"
+    },
+    "secondary-unit-info": {
+      "rate": null
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "replaced-by": []
+    }
+  },
+  {
+    "info": {
+      "iso": "azm",
+      "iso-num": 31,
+      "symbol": "./h-symbol/azm-31.svg",
+      "name": "azerbaijani manat"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "life-span": {
+      "created": "1992-08-15",
+      "deprecated": "2006-01-01",
+      "replaced-by": [
+        "azn"
+      ]
+    }
+  },
+  {
+    "info": {
+      "iso": "bad",
+      "iso-num": 70,
+      "symbol": "./h-symbol/bad-70.svg",
+      "name": "bosnia and herzegovina dinar"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "life-span": {
+      "created": "1992-07-01",
+      "deprecated": "1998-02-04",
+      "replaced-by": [
+        "bam"
+      ]
+    }
+  },
+  {
+    "info": {
+      "iso": "bec",
+      "iso-num": 993,
+      "symbol": "./h-symbol/bec-993.svg",
+      "name": "belgian convertible franc (funds code)"
+    },
+    "secondary-unit-info": {
+      "rate": null
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": "1990-05-01",
+      "replaced-by": []
+    }
+  },
+  {
+    "info": {
+      "iso": "bef",
+      "iso-num": 56,
+      "symbol": "./h-symbol/bef-56.svg",
+      "name": "belgian franc"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "life-span": {
+      "created": "1832",
+      "deprecated": "1999-01-01",
+      "replaced-by": [
+        "eur"
+      ]
+    }
+  },
+  {
+    "info": {
+      "iso": "bel",
+      "iso-num": 992,
+      "symbol": "./h-symbol/bel-992.svg",
+      "name": "belgian financial franc (funds code)"
+    },
+    "secondary-unit-info": {
+      "rate": null
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "replaced-by": []
+    }
+  },
+  {
+    "info": {
+      "iso": "bgj",
+      "iso-num": 100,
+      "symbol": "./h-symbol/bgj-100.svg",
+      "name": "bulgarian lev (first)"
+    },
+    "secondary-unit-info": {
+      "rate": null
+    },
+    "life-span": {
+      "created": "1881",
+      "deprecated": "1952",
+      "replaced-by": [
+        "bgk"
+      ]
+    }
+  },
+  {
+    "info": {
+      "iso": "bgk",
+      "iso-num": 100,
+      "symbol": "./h-symbol/bgk-100.svg",
+      "name": "bulgarian lev (second)"
+    },
+    "secondary-unit-info": {
+      "rate": null
+    },
+    "life-span": {
+      "created": "1952",
+      "deprecated": "1962",
+      "replaced-by": [
+        "bgl"
+      ]
+    }
+  },
+  {
+    "info": {
+      "iso": "bgl",
+      "iso-num": 100,
+      "symbol": "./h-symbol/bgl-100.svg",
+      "name": "bulgarian lev (third)"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "life-span": {
+      "created": "1962",
+      "deprecated": "1999-08-31",
+      "replaced-by": [
+        "bgn"
+      ]
+    }
+  },
+  {
+    "info": {
+      "iso": "bop",
+      "iso-num": 68,
+      "symbol": "./h-symbol/bop-68.svg",
+      "name": "bolivian peso"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "life-span": {
+      "created": "1963-01-01",
+      "deprecated": "1987-01-01",
+      "replaced-by": [
+        "bob"
+      ]
+    }
+  },
+  {
+    "info": {
+      "iso": "brb",
+      "iso-num": 76,
+      "symbol": "./h-symbol/brb-76.svg",
+      "name": "brazilian cruzeiro"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "life-span": {
+      "created": "1967",
+      "deprecated": "1986-02-28",
+      "replaced-by": [
+        "brc",
+        "brl"
+      ]
+    }
+  },
+  {
+    "info": {
+      "iso": "brc",
+      "iso-num": 76,
+      "symbol": "./h-symbol/brc-76.svg",
+      "name": "brazilian cruzado"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "life-span": {
+      "created": "1986-02-28",
+      "deprecated": "1989-01-15",
+      "replaced-by": [
+        "brn",
+        "brl"
+      ]
+    }
+  },
+  {
+    "info": {
+      "iso": "bre",
+      "iso-num": 76,
+      "symbol": "./h-symbol/bre-76.svg",
+      "name": "brazilian cruzeiro"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "life-span": {
+      "created": "1990-03-15",
+      "deprecated": "1993-08-01",
+      "replaced-by": [
+        "brr",
+        "brl"
+      ]
+    }
+  },
+  {
+    "info": {
+      "iso": "brn",
+      "iso-num": 76,
+      "symbol": "./h-symbol/brn-76.svg",
+      "name": "brazilian cruzado novo"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "life-span": {
+      "created": "1989-01-16",
+      "deprecated": "1990-03-15",
+      "replaced-by": [
+        "bre",
+        "brl"
+      ]
+    }
+  },
+  {
+    "info": {
+      "iso": "brr",
+      "iso-num": 987,
+      "symbol": "./h-symbol/brr-987.svg",
+      "name": "brazilian cruzeiro real"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "life-span": {
+      "created": "1993-08-01",
+      "deprecated": "1994-06-30",
+      "replaced-by": [
+        "brl"
+      ]
+    }
+  },
+  {
+    "info": {
+      "iso": "buk",
+      "iso-num": 104,
+      "symbol": "./h-symbol/buk-104.svg",
+      "name": "burmese kyat"
+    },
+    "secondary-unit-info": {
+      "rate": null
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "replaced-by": [
+        "mmk"
+      ]
+    }
+  },
+  {
+    "info": {
+      "iso": "byb",
+      "iso-num": 112,
+      "symbol": "./h-symbol/byb-112.svg",
+      "name": "belarusian ruble"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "life-span": {
+      "created": "1992",
+      "deprecated": "1999-12-31",
+      "replaced-by": [
+        "byr",
+        "byn"
+      ]
+    }
+  },
+  {
+    "info": {
+      "iso": "byr",
+      "iso-num": 974,
+      "symbol": "./h-symbol/byr-974.svg",
+      "name": "belarusian ruble"
+    },
+    "secondary-unit-info": {
+      "rate": null
+    },
+    "life-span": {
+      "created": "2000-01-01",
+      "deprecated": "2016-06-30",
+      "replaced-by": [
+        "byn"
+      ]
+    }
+  },
+  {
+    "info": {
+      "iso": "chc",
+      "iso-num": 948,
+      "symbol": "./h-symbol/chc-948.svg",
+      "name": "wir franc (for electronic currency)"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": "2004-12",
+      "replaced-by": [
+        "chw"
+      ]
+    }
+  },
+  {
+    "info": {
+      "iso": "csd",
+      "iso-num": 891,
+      "symbol": "./h-symbol/csd-891.svg",
+      "name": "serbian dinar"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "life-span": {
+      "created": "2003-07-03",
+      "deprecated": "2006-10-25",
+      "replaced-by": [
+        "rsd"
+      ]
+    }
+  },
+  {
+    "info": {
+      "iso": "csj",
+      "iso-num": 203,
+      "symbol": "./h-symbol/csj-203.svg",
+      "name": "czechoslovak koruna (second)"
+    },
+    "secondary-unit-info": {
+      "rate": null
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": "1953",
+      "replaced-by": [
+        "csk"
+      ]
+    }
+  },
+  {
+    "info": {
+      "iso": "csk",
+      "iso-num": 200,
+      "symbol": "./h-symbol/csk-200.svg",
+      "name": "czechoslovak koruna"
+    },
+    "secondary-unit-info": {
+      "rate": null
+    },
+    "life-span": {
+      "created": "1953",
+      "deprecated": "1993-02-08",
+      "replaced-by": [
+        "czk",
+        "skk",
+        "czk",
+        "eur"
+      ]
+    }
+  },
+  {
+    "info": {
+      "iso": "cyp",
+      "iso-num": 196,
+      "symbol": "./h-symbol/cyp-196.svg",
+      "name": "cypriot pound"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "life-span": {
+      "created": "1879",
+      "deprecated": "2006-01-01",
+      "replaced-by": [
+        "eur"
+      ]
+    }
+  },
+  {
+    "info": {
+      "iso": "ddm",
+      "iso-num": 278,
+      "symbol": "./h-symbol/ddm-278.svg",
+      "name": "east german mark"
+    },
+    "secondary-unit-info": {
+      "rate": null
+    },
+    "life-span": {
+      "created": "1948-06-21",
+      "deprecated": "1990-07-01",
+      "replaced-by": [
+        "dem",
+        "eur"
+      ]
+    }
+  },
+  {
+    "info": {
+      "iso": "dem",
+      "iso-num": 276,
+      "symbol": "./h-symbol/dem-276.svg",
+      "name": "german mark"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "life-span": {
+      "created": "1948",
+      "deprecated": "1999-01-01",
+      "replaced-by": [
+        "eur"
+      ]
+    }
+  },
+  {
+    "info": {
+      "iso": "ecs",
+      "iso-num": 218,
+      "symbol": "./h-symbol/ecs-218.svg",
+      "name": "ecuadorian sucre"
+    },
+    "secondary-unit-info": {
+      "rate": null
+    },
+    "life-span": {
+      "created": "1884",
+      "deprecated": "2000-02-29",
+      "replaced-by": [
+        "usd"
+      ]
+    }
+  },
+  {
+    "info": {
+      "iso": "ecv",
+      "iso-num": 983,
+      "symbol": "./h-symbol/ecv-983.svg",
+      "name": "ecuador unidad de valor constante (funds code)"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "life-span": {
+      "created": "1993",
+      "deprecated": "2000-02-29",
+      "replaced-by": []
+    }
+  },
+  {
+    "info": {
+      "iso": "eek",
+      "iso-num": 233,
+      "symbol": "./h-symbol/eek-233.svg",
+      "name": "estonian kroon"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "life-span": {
+      "created": "1992",
+      "deprecated": "2010-01-01",
+      "replaced-by": [
+        "eur"
+      ]
+    }
+  },
+  {
+    "info": {
+      "iso": "esa",
+      "iso-num": 996,
+      "symbol": "./h-symbol/esa-996.svg",
+      "name": "spanish peseta (account a)"
+    },
+    "secondary-unit-info": {
+      "rate": null
+    },
+    "life-span": {
+      "created": "1978",
+      "deprecated": "1981",
+      "replaced-by": [
+        "esp",
+        "eur"
+      ]
+    }
+  },
+  {
+    "info": {
+      "iso": "esb",
+      "iso-num": 995,
+      "symbol": "./h-symbol/esb-995.svg",
+      "name": "spanish peseta (account b)"
+    },
+    "secondary-unit-info": {
+      "rate": null
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": "1994-12",
+      "replaced-by": [
+        "esp",
+        "eur"
+      ]
+    }
+  },
+  {
+    "info": {
+      "iso": "esp",
+      "iso-num": 724,
+      "symbol": "./h-symbol/esp-724.svg",
+      "name": "spanish peseta"
+    },
+    "secondary-unit-info": {
+      "rate": null
+    },
+    "life-span": {
+      "created": "1869",
+      "deprecated": "1999-01-01",
+      "replaced-by": [
+        "eur"
+      ]
+    }
+  },
+  {
+    "info": {
+      "iso": "fim",
+      "iso-num": 246,
+      "symbol": "./h-symbol/fim-246.svg",
+      "name": "finnish markka"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "life-span": {
+      "created": "1860",
+      "deprecated": "1999-01-01",
+      "replaced-by": [
+        "eur"
+      ]
+    }
+  },
+  {
+    "info": {
+      "iso": "frf",
+      "iso-num": 250,
+      "symbol": "./h-symbol/frf-250.svg",
+      "name": "french franc"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "life-span": {
+      "created": "1960",
+      "deprecated": "1999-01-01",
+      "replaced-by": [
+        "eur"
+      ]
+    }
+  },
+  {
+    "info": {
+      "iso": "gek",
+      "iso-num": 268,
+      "symbol": "./h-symbol/gek-268.svg",
+      "name": "georgian kuponi"
+    },
+    "secondary-unit-info": {
+      "rate": null
+    },
+    "life-span": {
+      "created": "1993-04-05",
+      "deprecated": "1995-10-02",
+      "replaced-by": [
+        "gel"
+      ]
+    }
+  },
+  {
+    "info": {
+      "iso": "ghc",
+      "iso-num": 288,
+      "symbol": "./h-symbol/ghc-288.svg",
+      "name": "ghanaian cedi"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "life-span": {
+      "created": "1967",
+      "deprecated": "2007-07-01",
+      "replaced-by": [
+        "ghs"
+      ]
+    }
+  },
+  {
+    "info": {
+      "iso": "ghp",
+      "iso-num": 939,
+      "symbol": "./h-symbol/ghp-939.svg",
+      "name": "ghanaian cedi"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": "2007-06-18",
+      "replaced-by": [
+        "ghs"
+      ]
+    }
+  },
+  {
+    "info": {
+      "iso": "gne",
+      "iso-num": 324,
+      "symbol": "./h-symbol/gne-324.svg",
+      "name": "guinean syli"
+    },
+    "secondary-unit-info": {
+      "rate": null
+    },
+    "life-span": {
+      "created": "1971",
+      "deprecated": "1985-12-31",
+      "replaced-by": [
+        "gnf"
+      ]
+    }
+  },
+  {
+    "info": {
+      "iso": "gns",
+      "iso-num": 324,
+      "symbol": "./h-symbol/gns-324.svg",
+      "name": "guinean syli"
+    },
+    "secondary-unit-info": {
+      "rate": null
+    },
+    "life-span": {
+      "created": "1971",
+      "deprecated": "1985",
+      "replaced-by": [
+        "gnf"
+      ]
+    }
+  },
+  {
+    "info": {
+      "iso": "gqe",
+      "iso-num": 226,
+      "symbol": "./h-symbol/gqe-226.svg",
+      "name": "equatorial guinean ekwele"
+    },
+    "secondary-unit-info": {
+      "rate": null
+    },
+    "life-span": {
+      "created": "1975",
+      "deprecated": "1985-12-31",
+      "replaced-by": [
+        "xaf"
+      ]
+    }
+  },
+  {
+    "info": {
+      "iso": "grd",
+      "iso-num": 300,
+      "symbol": "./h-symbol/grd-300.svg",
+      "name": "greek drachma"
+    },
+    "secondary-unit-info": {
+      "rate": null
+    },
+    "life-span": {
+      "created": "1954-05-01",
+      "deprecated": "2001-01-01",
+      "replaced-by": [
+        "eur"
+      ]
+    }
+  },
+  {
+    "info": {
+      "iso": "gwe",
+      "iso-num": 624,
+      "symbol": "./h-symbol/gwe-624.svg",
+      "name": "guinean escudo"
+    },
+    "secondary-unit-info": {
+      "rate": null
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "replaced-by": [
+        "gwp"
+      ]
+    }
+  },
+  {
+    "info": {
+      "iso": "gwp",
+      "iso-num": 624,
+      "symbol": "./h-symbol/gwp-624.svg",
+      "name": "guinea-bissau peso"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "life-span": {
+      "created": "1975",
+      "deprecated": "1997-05-31",
+      "replaced-by": [
+        "xof"
+      ]
+    }
+  },
+  {
+    "info": {
+      "iso": "hrd",
+      "iso-num": 191,
+      "symbol": "./h-symbol/hrd-191.svg",
+      "name": "croatian dinar"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "life-span": {
+      "created": "1991-12-23",
+      "deprecated": "1994-05-30",
+      "replaced-by": [
+        "hrk"
+      ]
+    }
+  },
+  {
+    "info": {
+      "iso": "hrk",
+      "iso-num": 191,
+      "symbol": "./h-symbol/hrk-191.svg",
+      "name": "croatian kuna"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "life-span": {
+      "created": "1994-05-30",
+      "deprecated": "2023-01-01",
+      "replaced-by": [
+        "eur"
+      ]
+    }
+  },
+  {
+    "info": {
+      "iso": "iep",
+      "iso-num": 372,
+      "symbol": "./h-symbol/iep-372.svg",
+      "name": "irish pound"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "life-span": {
+      "created": "1938",
+      "deprecated": "1999-01-01",
+      "replaced-by": [
+        "eur"
+      ]
+    }
+  },
+  {
+    "info": {
+      "iso": "ilp",
+      "iso-num": 376,
+      "symbol": "./h-symbol/ilp-376.svg",
+      "name": "israeli pound"
+    },
+    "secondary-unit-info": {
+      "rate": "1000"
+    },
+    "life-span": {
+      "created": "1948",
+      "deprecated": "1980-02-20",
+      "replaced-by": [
+        "ilr",
+        "ils"
+      ]
+    }
+  },
+  {
+    "info": {
+      "iso": "ilr",
+      "iso-num": 376,
+      "symbol": "./h-symbol/ilr-376.svg",
+      "name": "israeli shekel"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "life-span": {
+      "created": "1980-02-24",
+      "deprecated": "1985-12-31",
+      "replaced-by": [
+        "ils"
+      ]
+    }
+  },
+  {
+    "info": {
+      "iso": "isj",
+      "iso-num": 352,
+      "symbol": "./h-symbol/isj-352.svg",
+      "name": "icelandic króna"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "life-span": {
+      "created": "1922",
+      "deprecated": "1981-06-30",
+      "replaced-by": [
+        "isk"
+      ]
+    }
+  },
+  {
+    "info": {
+      "iso": "itl",
+      "iso-num": 380,
+      "symbol": "./h-symbol/itl-380.svg",
+      "name": "italian lira"
+    },
+    "secondary-unit-info": {
+      "rate": null
+    },
+    "life-span": {
+      "created": "1861",
+      "deprecated": "1999-01-01",
+      "replaced-by": [
+        "eur"
+      ]
+    }
+  },
+  {
+    "info": {
+      "iso": "laj",
+      "iso-num": 418,
+      "symbol": "./h-symbol/laj-418.svg",
+      "name": "lao kip"
+    },
+    "secondary-unit-info": {
+      "rate": null
+    },
+    "life-span": {
+      "created": "1965",
+      "deprecated": "1979-12-31",
+      "replaced-by": [
+        "lak"
+      ]
+    }
+  },
+  {
+    "info": {
+      "iso": "lsm",
+      "iso-num": 426,
+      "symbol": "./h-symbol/lsm-426.svg",
+      "name": "lesotho loti"
+    },
+    "secondary-unit-info": {
+      "rate": null
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "replaced-by": []
+    }
+  },
+  {
+    "info": {
+      "iso": "ltl",
+      "iso-num": 440,
+      "symbol": "./h-symbol/ltl-440.svg",
+      "name": "lithuanian litas"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "life-span": {
+      "created": "1993",
+      "deprecated": "2015-01-01",
+      "replaced-by": [
+        "eur"
+      ]
+    }
+  },
+  {
+    "info": {
+      "iso": "ltt",
+      "iso-num": 440,
+      "symbol": "./h-symbol/ltt-440.svg",
+      "name": "lithuanian talonas"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "replaced-by": [
+        "ltl"
+      ]
+    }
+  },
+  {
+    "info": {
+      "iso": "luc",
+      "iso-num": 989,
+      "symbol": "./h-symbol/luc-989.svg",
+      "name": "luxembourg convertible franc (funds code)"
+    },
+    "secondary-unit-info": {
+      "rate": null
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "replaced-by": []
+    }
+  },
+  {
+    "info": {
+      "iso": "luf",
+      "iso-num": 442,
+      "symbol": "./h-symbol/luf-442.svg",
+      "name": "luxembourg franc"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "life-span": {
+      "created": "1944",
+      "deprecated": "1999-01-01",
+      "replaced-by": [
+        "eur"
+      ]
+    }
+  },
+  {
+    "info": {
+      "iso": "lul",
+      "iso-num": 988,
+      "symbol": "./h-symbol/lul-988.svg",
+      "name": "luxembourg financial franc (funds code)"
+    },
+    "secondary-unit-info": {
+      "rate": null
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "replaced-by": []
+    }
+  },
+  {
+    "info": {
+      "iso": "lvl",
+      "iso-num": 428,
+      "symbol": "./h-symbol/lvl-428.svg",
+      "name": "latvian lats"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "life-span": {
+      "created": "1993-03-05",
+      "deprecated": "2013-01-01",
+      "replaced-by": [
+        "eur"
+      ]
+    }
+  },
+  {
+    "info": {
+      "iso": "lvr",
+      "iso-num": 428,
+      "symbol": "./h-symbol/lvr-428.svg",
+      "name": "latvian rublis"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "life-span": {
+      "created": "1992-05-04",
+      "deprecated": "1993-03-05",
+      "replaced-by": [
+        "lvl"
+      ]
+    }
+  },
+  {
+    "info": {
+      "iso-num": null,
+      "symbol": "./h-symbol/mcf-NaN.svg",
+      "name": "monégasque franc",
+      "non-standard-iso": "mcf"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": "1999-01",
+      "replaced-by": [
+        "eur"
+      ]
+    }
+  },
+  {
+    "info": {
+      "iso": "mgf",
+      "iso-num": 450,
+      "symbol": "./h-symbol/mgf-450.svg",
+      "name": "malagasy franc"
+    },
+    "secondary-unit-info": {
+      "rate": null
+    },
+    "life-span": {
+      "created": "1963-07-01",
+      "deprecated": "2005-01-01",
+      "replaced-by": [
+        "mga"
+      ]
+    }
+  },
+  {
+    "info": {
+      "iso-num": null,
+      "symbol": "./h-symbol/mkn-NaN.svg",
+      "name": "north macedonian first denar",
+      "non-standard-iso": "mkn"
+    },
+    "secondary-unit-info": {
+      "rate": null
+    },
+    "life-span": {
+      "created": "1990-01",
+      "deprecated": "1993",
+      "replaced-by": [
+        "mkd"
+      ]
+    }
+  },
+  {
+    "info": {
+      "iso": "mlf",
+      "iso-num": 466,
+      "symbol": "./h-symbol/mlf-466.svg",
+      "name": "malian franc"
+    },
+    "secondary-unit-info": {
+      "rate": null
+    },
+    "life-span": {
+      "created": "1962",
+      "deprecated": "1984-01-01",
+      "replaced-by": [
+        "xof"
+      ]
+    }
+  },
+  {
+    "info": {
+      "iso": "mro",
+      "iso-num": 478,
+      "symbol": "./h-symbol/mro-478.svg",
+      "name": "mauritanian ouguiya"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "life-span": {
+      "created": "1973-06-29",
+      "deprecated": "2018-01-01",
+      "replaced-by": [
+        "mru"
+      ]
+    }
+  },
+  {
+    "info": {
+      "iso": "mtl",
+      "iso-num": 470,
+      "symbol": "./h-symbol/mtl-470.svg",
+      "name": "maltese lira"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "life-span": {
+      "created": "1972-05-26",
+      "deprecated": "2006-01-01",
+      "replaced-by": [
+        "eur"
+      ]
+    }
+  },
+  {
+    "info": {
+      "iso": "mtp",
+      "iso-num": 470,
+      "symbol": "./h-symbol/mtp-470.svg",
+      "name": "maltese pound"
+    },
+    "secondary-unit-info": {
+      "rate": null
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "replaced-by": [
+        "mtl"
+      ]
+    }
+  },
+  {
+    "info": {
+      "iso": "mvq",
+      "iso-num": 462,
+      "symbol": "./h-symbol/mvq-462.svg",
+      "name": "maldivian rupee"
+    },
+    "secondary-unit-info": {
+      "rate": null
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": "1981-12-31",
+      "replaced-by": [
+        "mvr"
+      ]
+    }
+  },
+  {
+    "info": {
+      "iso": "mxp",
+      "iso-num": 484,
+      "symbol": "./h-symbol/mxp-484.svg",
+      "name": "mexican peso"
+    },
+    "secondary-unit-info": {
+      "rate": null
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": "1993-03-31",
+      "replaced-by": [
+        "mxn"
+      ]
+    }
+  },
+  {
+    "info": {
+      "iso": "mze",
+      "iso-num": 508,
+      "symbol": "./h-symbol/mze-508.svg",
+      "name": "mozambican escudo"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "life-span": {
+      "created": "1914",
+      "deprecated": "1980",
+      "replaced-by": [
+        "mzn"
+      ]
+    }
+  },
+  {
+    "info": {
+      "iso": "mzm",
+      "iso-num": 508,
+      "symbol": "./h-symbol/mzm-508.svg",
+      "name": "mozambican metical"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "life-span": {
+      "created": "1980",
+      "deprecated": "2006-06-30",
+      "replaced-by": [
+        "mzn"
+      ]
+    }
+  },
+  {
+    "info": {
+      "iso": "nic",
+      "iso-num": 558,
+      "symbol": "./h-symbol/nic-558.svg",
+      "name": "nicaraguan córdoba"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "life-span": {
+      "created": "1988",
+      "deprecated": "1990-10-31",
+      "replaced-by": [
+        "nio"
+      ]
+    }
+  },
+  {
+    "info": {
+      "iso": "nlg",
+      "iso-num": 528,
+      "symbol": "./h-symbol/nlg-528.svg",
+      "name": "dutch guilder"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "life-span": {
+      "created": "1810s",
+      "deprecated": "1999-01-01",
+      "replaced-by": [
+        "eur"
+      ]
+    }
+  },
+  {
+    "info": {
+      "iso": "peh",
+      "iso-num": 604,
+      "symbol": "./h-symbol/peh-604.svg",
+      "name": "peruvian old sol"
+    },
+    "secondary-unit-info": {
+      "rate": null
+    },
+    "life-span": {
+      "created": "1863",
+      "deprecated": "1985-02-01",
+      "replaced-by": [
+        "pei",
+        "pen"
+      ]
+    }
+  },
+  {
+    "info": {
+      "iso": "pei",
+      "iso-num": 604,
+      "symbol": "./h-symbol/pei-604.svg",
+      "name": "peruvian inti"
+    },
+    "secondary-unit-info": {
+      "rate": null
+    },
+    "life-span": {
+      "created": "1985-02-01",
+      "deprecated": "1991-10-01",
+      "replaced-by": [
+        "pen"
+      ]
+    }
+  },
+  {
+    "info": {
+      "iso": "pes",
+      "iso-num": 604,
+      "symbol": "./h-symbol/pes-604.svg",
+      "name": "peruvian sol"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "life-span": {
+      "created": "1863",
+      "deprecated": "1985",
+      "replaced-by": [
+        "pei"
+      ]
+    }
+  },
+  {
+    "info": {
+      "iso": "plz",
+      "iso-num": 616,
+      "symbol": "./h-symbol/plz-616.svg",
+      "name": "polish zloty"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "life-span": {
+      "created": "1950-10-30",
+      "deprecated": "1994-12-31",
+      "replaced-by": [
+        "pln"
+      ]
+    }
+  },
+  {
+    "info": {
+      "iso": "pte",
+      "iso-num": 620,
+      "symbol": "./h-symbol/pte-620.svg",
+      "name": "portuguese escudo"
+    },
+    "secondary-unit-info": {
+      "rate": null
+    },
+    "life-span": {
+      "created": "1911-05-22",
+      "deprecated": "1999-01-01",
+      "replaced-by": [
+        "eur"
+      ]
+    }
+  },
+  {
+    "info": {
+      "iso": "rhd",
+      "iso-num": 716,
+      "symbol": "./h-symbol/rhd-716.svg",
+      "name": "rhodesian dollar"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "life-span": {
+      "created": "1970",
+      "deprecated": "1980",
+      "replaced-by": [
+        "zwc"
+      ]
+    }
+  },
+  {
+    "info": {
+      "iso": "rok",
+      "iso-num": 642,
+      "symbol": "./h-symbol/rok-642.svg",
+      "name": "romanian leu (second)"
+    },
+    "secondary-unit-info": {
+      "rate": null
+    },
+    "life-span": {
+      "created": "1947",
+      "deprecated": "1952",
+      "replaced-by": [
+        "rol"
+      ]
+    }
+  },
+  {
+    "info": {
+      "iso": "rol",
+      "iso-num": 642,
+      "symbol": "./h-symbol/rol-642.svg",
+      "name": "romanian leu (third)"
+    },
+    "secondary-unit-info": {
+      "rate": null
+    },
+    "life-span": {
+      "created": "1952-01-28",
+      "deprecated": "2005",
+      "replaced-by": [
+        "ron"
+      ]
+    }
+  },
+  {
+    "info": {
+      "iso": "rur",
+      "iso-num": 810,
+      "symbol": "./h-symbol/rur-810.svg",
+      "name": "russian ruble"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "life-span": {
+      "created": "1992",
+      "deprecated": "1997-12-31",
+      "replaced-by": [
+        "rub"
+      ]
+    }
+  },
+  {
+    "info": {
+      "iso": "sdd",
+      "iso-num": 736,
+      "symbol": "./h-symbol/sdd-736.svg",
+      "name": "sudanese dinar"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "life-span": {
+      "created": "1992-06-08",
+      "deprecated": "2007-01-10",
+      "replaced-by": [
+        "sdg"
+      ]
+    }
+  },
+  {
+    "info": {
+      "iso": "sdp",
+      "iso-num": 736,
+      "symbol": "./h-symbol/sdp-736.svg",
+      "name": "sudanese old pound"
+    },
+    "secondary-unit-info": {
+      "rate": null
+    },
+    "life-span": {
+      "created": "1956",
+      "deprecated": "1992-06-08",
+      "replaced-by": [
+        "sdd",
+        "sdg"
+      ]
+    }
+  },
+  {
+    "info": {
+      "iso": "sit",
+      "iso-num": 705,
+      "symbol": "./h-symbol/sit-705.svg",
+      "name": "slovenian tolar"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "life-span": {
+      "created": "1991-10-08",
+      "deprecated": "2005-01-01",
+      "replaced-by": [
+        "eur"
+      ]
+    }
+  },
+  {
+    "info": {
+      "iso": "skk",
+      "iso-num": 703,
+      "symbol": "./h-symbol/skk-703.svg",
+      "name": "slovak koruna"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "life-span": {
+      "created": "1993-02-08",
+      "deprecated": "2007-01-01",
+      "replaced-by": [
+        "eur"
+      ]
+    }
+  },
+  {
+    "info": {
+      "iso-num": null,
+      "symbol": "./h-symbol/sml-NaN.svg",
+      "name": "san marinese lira",
+      "non-standard-iso": "sml"
+    },
+    "secondary-unit-info": {
+      "rate": "1"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": "1999-01",
+      "replaced-by": [
+        "eur"
+      ]
+    }
+  },
+  {
+    "info": {
+      "iso": "srg",
+      "iso-num": 740,
+      "symbol": "./h-symbol/srg-740.svg",
+      "name": "surinamese guilder"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "life-span": {
+      "created": "1942",
+      "deprecated": "2004",
+      "replaced-by": [
+        "srd"
+      ]
+    }
+  },
+  {
+    "info": {
+      "iso": "std",
+      "iso-num": 678,
+      "symbol": "./h-symbol/std-678.svg",
+      "name": "são tomé and príncipe dobra"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "life-span": {
+      "created": "1977",
+      "deprecated": "2018-04-01",
+      "replaced-by": [
+        "stn"
+      ]
+    }
+  },
+  {
+    "info": {
+      "iso": "sur",
+      "iso-num": 810,
+      "symbol": "./h-symbol/sur-810.svg",
+      "name": "soviet union ruble"
+    },
+    "secondary-unit-info": {
+      "rate": null
+    },
+    "life-span": {
+      "created": "1961",
+      "deprecated": "1991-12-26",
+      "replaced-by": [
+        "rur",
+        "rub",
+        "amd",
+        "azn",
+        "byn",
+        "eur",
+        "gel",
+        "kzt",
+        "kgs",
+        "mdl",
+        "tjs",
+        "tmt",
+        "uah",
+        "uzs"
+      ]
+    }
+  },
+  {
+    "info": {
+      "iso": "tjr",
+      "iso-num": 762,
+      "symbol": "./h-symbol/tjr-762.svg",
+      "name": "tajikistani ruble"
+    },
+    "secondary-unit-info": {
+      "rate": null
+    },
+    "life-span": {
+      "created": "1995-05-10",
+      "deprecated": "2000-10-30",
+      "replaced-by": [
+        "tjs"
+      ]
+    }
+  },
+  {
+    "info": {
+      "iso": "tmm",
+      "iso-num": 795,
+      "symbol": "./h-symbol/tmm-795.svg",
+      "name": "turkmenistani manat"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "life-span": {
+      "created": "1993-11-1",
+      "deprecated": "2008-12-31",
+      "replaced-by": [
+        "tmt"
+      ]
+    }
+  },
+  {
+    "info": {
+      "iso": "tpe",
+      "iso-num": 626,
+      "symbol": "./h-symbol/tpe-626.svg",
+      "name": "portuguese timorese escudo"
+    },
+    "secondary-unit-info": {
+      "rate": null
+    },
+    "life-span": {
+      "created": "1959",
+      "deprecated": "1976",
+      "replaced-by": [
+        "usd"
+      ]
+    }
+  },
+  {
+    "info": {
+      "iso": "trl",
+      "iso-num": 792,
+      "symbol": "./h-symbol/trl-792.svg",
+      "name": "turkish lira"
+    },
+    "secondary-unit-info": {
+      "rate": null
+    },
+    "life-span": {
+      "created": "1923",
+      "deprecated": "2005-12-31",
+      "replaced-by": [
+        "try"
+      ]
+    }
+  },
+  {
+    "info": {
+      "iso": "uak",
+      "iso-num": 804,
+      "symbol": "./h-symbol/uak-804.svg",
+      "name": "ukrainian karbovanets"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "life-span": {
+      "created": "1992-10-1",
+      "deprecated": "1996-09-01",
+      "replaced-by": [
+        "uah"
+      ]
+    }
+  },
+  {
+    "info": {
+      "iso": "ugs",
+      "iso-num": 800,
+      "symbol": "./h-symbol/ugs-800.svg",
+      "name": "ugandan shilling"
+    },
+    "secondary-unit-info": {
+      "rate": null
+    },
+    "life-span": {
+      "created": "1966",
+      "deprecated": "1987-12-31",
+      "replaced-by": [
+        "ugx"
+      ]
+    }
+  },
+  {
+    "info": {
+      "iso": "ugw",
+      "iso-num": 800,
+      "symbol": "./h-symbol/ugw-800.svg",
+      "name": "old shilling"
+    },
+    "secondary-unit-info": {
+      "rate": null
+    },
+    "life-span": {
+      "created": "1989",
+      "deprecated": "1990",
+      "replaced-by": [
+        "ugx"
+      ]
+    }
+  },
+  {
+    "info": {
+      "iso": "uss",
+      "iso-num": 998,
+      "symbol": "./h-symbol/uss-998.svg",
+      "name": "united states dollar (same day) (funds code)"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": "2014-03-28",
+      "replaced-by": []
+    }
+  },
+  {
+    "info": {
+      "iso": "uyn",
+      "iso-num": 858,
+      "symbol": "./h-symbol/uyn-858.svg",
+      "name": "uruguay peso"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "life-span": {
+      "created": "1896",
+      "deprecated": "1975-07-01",
+      "replaced-by": [
+        "uyp"
+      ]
+    }
+  },
+  {
+    "info": {
+      "iso": "uyp",
+      "iso-num": 858,
+      "symbol": "./h-symbol/uyp-858.svg",
+      "name": "uruguay new peso"
+    },
+    "secondary-unit-info": {
+      "rate": null
+    },
+    "life-span": {
+      "created": "1975-07-01",
+      "deprecated": "1993-03-01",
+      "replaced-by": [
+        "uyu"
+      ]
+    }
+  },
+  {
+    "info": {
+      "iso-num": null,
+      "symbol": "./h-symbol/val-NaN.svg",
+      "name": "vatican lira",
+      "non-standard-iso": "val"
+    },
+    "secondary-unit-info": {
+      "rate": "1"
+    },
+    "life-span": {
+      "created": "1979-03-13",
+      "deprecated": "1999-01",
+      "replaced-by": [
+        "eur"
+      ]
+    }
+  },
+  {
+    "info": {
+      "iso": "veb",
+      "iso-num": 862,
+      "symbol": "./h-symbol/veb-862.svg",
+      "name": "venezuelan bolívar"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "life-span": {
+      "created": "1879-03-31",
+      "deprecated": "2008-01-01",
+      "replaced-by": [
+        "vef",
+        "ves"
+      ]
+    }
+  },
+  {
+    "info": {
+      "iso": "vef",
+      "iso-num": 937,
+      "symbol": "./h-symbol/vef-937.svg",
+      "name": "venezuelan bolívar fuerte"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "life-span": {
+      "created": "2008-01-01",
+      "deprecated": "2018-08-20",
+      "replaced-by": [
+        "ves"
+      ]
+    }
+  },
+  {
+    "info": {
+      "iso": "vnc",
+      "iso-num": 704,
+      "symbol": "./h-symbol/vnc-704.svg",
+      "name": "old vietnamese dong"
+    },
+    "secondary-unit-info": {
+      "rate": null
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "replaced-by": []
+    }
+  },
+  {
+    "info": {
+      "iso": "xeu",
+      "iso-num": 954,
+      "symbol": "./h-symbol/xeu-954.svg",
+      "name": "european currency unit"
+    },
+    "secondary-unit-info": {
+      "rate": null
+    },
+    "life-span": {
+      "created": "1979-03-13",
+      "deprecated": "1998-12-31",
+      "replaced-by": [
+        "eur"
+      ]
+    }
+  },
+  {
+    "info": {
+      "iso-num": null,
+      "symbol": "./h-symbol/xfo-NaN.svg",
+      "name": "gold franc (special settlement currency)",
+      "non-standard-iso": "xfo"
+    },
+    "secondary-unit-info": {
+      "rate": null
+    },
+    "life-span": {
+      "created": "1803",
+      "deprecated": "2003",
+      "replaced-by": [
+        "xdr"
+      ]
+    }
+  },
+  {
+    "info": {
+      "iso-num": null,
+      "symbol": "./h-symbol/xfu-NaN.svg",
+      "name": "uic franc (special settlement currency)",
+      "non-standard-iso": "xfu"
+    },
+    "secondary-unit-info": {
+      "rate": null
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": "2013-11-07",
+      "replaced-by": [
+        "eur"
+      ]
+    }
+  },
+  {
+    "info": {
+      "iso-num": null,
+      "symbol": "./h-symbol/xre-NaN.svg",
+      "name": "rinet funds code",
+      "non-standard-iso": "xre"
+    },
+    "secondary-unit-info": {
+      "rate": null
+    },
+    "life-span": {
+      "created": null,
+      "deprecated": null,
+      "replaced-by": []
+    }
+  },
+  {
+    "info": {
+      "iso": "ydd",
+      "iso-num": 720,
+      "symbol": "./h-symbol/ydd-720.svg",
+      "name": "south yemeni dinar"
+    },
+    "secondary-unit-info": {
+      "rate": null
+    },
+    "life-span": {
+      "created": "1965",
+      "deprecated": "1996-06-11",
+      "replaced-by": [
+        "yer"
+      ]
+    }
+  },
+  {
+    "info": {
+      "iso": "yud",
+      "iso-num": 890,
+      "symbol": "./h-symbol/yud-890.svg",
+      "name": "yugoslav dinar"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "life-span": {
+      "created": "1966-01-01",
+      "deprecated": "1989-12-31",
+      "replaced-by": [
+        "yun",
+        "mkd",
+        "rsd",
+        "eur",
+        "hrk",
+        "bam"
+      ]
+    }
+  },
+  {
+    "info": {
+      "iso-num": null,
+      "symbol": "./h-symbol/yug-NaN.svg",
+      "name": "yugoslav dinar",
+      "non-standard-iso": "yug"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "life-span": {
+      "created": "1994-01",
+      "deprecated": "1994-01-24",
+      "replaced-by": [
+        "yum"
+      ]
+    }
+  },
+  {
+    "info": {
+      "iso-num": null,
+      "symbol": "./h-symbol/yuo-NaN.svg",
+      "name": "yugoslav dinar",
+      "non-standard-iso": "yuo"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "life-span": {
+      "created": "1993-10-01",
+      "deprecated": "1993-12",
+      "replaced-by": [
+        "yug"
+      ]
+    }
+  },
+  {
+    "info": {
+      "iso-num": null,
+      "symbol": "./h-symbol/yur-NaN.svg",
+      "name": "reformed yugoslav dinar",
+      "non-standard-iso": "yur"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "life-span": {
+      "created": "1992-06",
+      "deprecated": "1993-09",
+      "replaced-by": [
+        "yuo"
+      ]
+    }
+  },
+  {
+    "info": {
+      "iso": "yum",
+      "iso-num": 891,
+      "symbol": "./h-symbol/yum-891.svg",
+      "name": "yugoslav dinar"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "life-span": {
+      "created": "1994-01-24",
+      "deprecated": "2003-07-02",
+      "replaced-by": [
+        "csd",
+        "rsd",
+        "eur"
+      ]
+    }
+  },
+  {
+    "info": {
+      "iso": "yun",
+      "iso-num": 890,
+      "symbol": "./h-symbol/yun-890.svg",
+      "name": "yugoslav dinar"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "life-span": {
+      "created": "1990-01-01",
+      "deprecated": "1992-06-30",
+      "replaced-by": [
+        "yur",
+        "mkd",
+        "rsd",
+        "eur",
+        "hrk",
+        "bam"
+      ]
+    }
+  },
+  {
+    "info": {
+      "iso": "zal",
+      "iso-num": 991,
+      "symbol": "./h-symbol/zal-991.svg",
+      "name": "south african financial rand (funds code)"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "life-span": {
+      "created": "1985-09-01",
+      "deprecated": "1995-03-13",
+      "replaced-by": []
+    }
+  },
+  {
+    "info": {
+      "iso": "zmk",
+      "iso-num": 894,
+      "symbol": "./h-symbol/zmk-894.svg",
+      "name": "zambian kwacha"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "life-span": {
+      "created": "1968-01-16",
+      "deprecated": "2013-01-01",
+      "replaced-by": [
+        "zmw"
+      ]
+    }
+  },
+  {
+    "info": {
+      "iso": "zrn",
+      "iso-num": 180,
+      "symbol": "./h-symbol/zrn-180.svg",
+      "name": "zairean new zaire"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "life-span": {
+      "created": "1993",
+      "deprecated": "1997",
+      "replaced-by": [
+        "cdf"
+      ]
+    }
+  },
+  {
+    "info": {
+      "iso": "zrz",
+      "iso-num": 180,
+      "symbol": "./h-symbol/zrz-180.svg",
+      "name": "zairean zaire"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "life-span": {
+      "created": "1967",
+      "deprecated": "1993",
+      "replaced-by": [
+        "zrn",
+        "cdf"
+      ]
+    }
+  },
+  {
+    "info": {
+      "iso": "zwc",
+      "iso-num": 716,
+      "symbol": "./h-symbol/zwc-716.svg",
+      "name": "rhodesian dollar"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "life-span": {
+      "created": "1970-02-17",
+      "deprecated": "1980",
+      "replaced-by": [
+        "zwd",
+        "usd",
+        "zwl"
+      ]
+    }
+  },
+  {
+    "info": {
+      "iso": "zwd",
+      "iso-num": 716,
+      "symbol": "./h-symbol/zwd-716.svg",
+      "name": "zimbabwean dollar (first)"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "life-span": {
+      "created": "1980-04-18",
+      "deprecated": "2006-07-31",
+      "replaced-by": [
+        "zwn",
+        "usd",
+        "zwl"
+      ]
+    }
+  },
+  {
+    "info": {
+      "iso": "zwn",
+      "iso-num": 942,
+      "symbol": "./h-symbol/zwn-942.svg",
+      "name": "zimbabwean dollar (second)"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "life-span": {
+      "created": "2006-08-01",
+      "deprecated": "2008-07-31",
+      "replaced-by": [
+        "zwr",
+        "usd",
+        "zwl"
+      ]
+    }
+  },
+  {
+    "info": {
+      "iso": "zwr",
+      "iso-num": 935,
+      "symbol": "./h-symbol/zwr-935.svg",
+      "name": "zimbabwean dollar (third)"
+    },
+    "secondary-unit-info": {
+      "rate": "100"
+    },
+    "life-span": {
+      "created": "2008-08-01",
+      "deprecated": "2009-02-02",
+      "replaced-by": [
+        "zwl, usd, zwl"
+      ]
+    }
+  }
+]
